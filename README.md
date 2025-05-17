@@ -1,4 +1,4 @@
-# CodecFake_Source_Tracing
+# CodecFake-Source-Tracing
 
 # Citation
 If you think this work helps your research or use the code, please consider citing our paper. Thank you!
