@@ -1,0 +1,1797 @@
+VIOLA audios_entts_ref_14 - bonafide
+VIOLA audios_entts_ref_1630 - bonafide
+VIOLA audios_entts_ref_356 - bonafide
+VIOLA audios_entts_ref_467 - bonafide
+VIOLA audios_entts_ref_762 - bonafide
+VIOLA audios_entts_ref_927 - bonafide
+VIOLA audios_entts_ref_981 - bonafide
+VIOLA entts_viola_generated_14 - spoof
+VIOLA entts_viola_output_1630_0 - spoof
+VIOLA entts_viola_output_356_0 - spoof
+VIOLA entts_viola_output_467_0 - spoof
+VIOLA entts_viola_output_762_0 - spoof
+VIOLA entts_viola_output_927_0 - spoof
+VIOLA entts_viola_output_981_0 - spoof
+ELLAV ELLAV_1_prompt_hc - - bonafide
+ELLAV ELLAV_4_prompt_hc - - bonafide
+ELLAV ELLAV_7_prompt_hc - - bonafide
+ELLAV ELLAV_2_prompt_hc - - bonafide
+ELLAV ELLAV_5_prompt_hc - - bonafide
+ELLAV ELLAV_3_prompt_hc - - bonafide
+ELLAV ELLAV_6_prompt_hc - - bonafide
+ELLAV ELLAV_8_prompt_hc - - bonafide
+ELLAV ELLAV_1_ellav_hc - - spoof
+ELLAV ELLAV_4_ellav_hc - - spoof
+ELLAV ELLAV_7_ellav_hc - - spoof
+ELLAV ELLAV_2_ellav_hc - - spoof
+ELLAV ELLAV_5_ellav_hc - - spoof
+ELLAV ELLAV_3_ellav_hc - - spoof
+ELLAV ELLAV_6_ellav_hc - - spoof
+ELLAV ELLAV_8_ellav_hc - - spoof
+NS2 compare_with_valle_case1_ns - - spoof
+NS2 compare_with_valle_case1_reference - - bonafide
+NS2 compare_with_valle_case2_ns - - spoof
+NS2 compare_with_valle_case2_reference - - bonafide
+NS2 compare_with_valle_case3_ns - - spoof
+NS2 compare_with_valle_case3_reference - - bonafide
+NS2 compare_with_valle_case4_ns - - spoof
+NS2 compare_with_valle_case4_reference - - bonafide
+NS2 librispeech_examples_case10_ns - - spoof
+NS2 librispeech_examples_case10_reference - - bonafide
+NS2 librispeech_examples_case1_ns - - spoof
+NS2 librispeech_examples_case1_reference - - bonafide
+NS2 librispeech_examples_case2_ns - - spoof
+NS2 librispeech_examples_case2_reference - - bonafide
+NS2 librispeech_examples_case3_ns - - spoof
+NS2 librispeech_examples_case3_reference - - bonafide
+NS2 librispeech_examples_case5_ns - - spoof
+NS2 librispeech_examples_case5_reference - - bonafide
+NS2 librispeech_examples_case6_ns - - spoof
+NS2 librispeech_examples_case6_reference - - bonafide
+NS2 librispeech_examples_case8_ns - - spoof
+NS2 librispeech_examples_case8_reference - - bonafide
+NS2 librispeech_examples_case9_ns - - spoof
+NS2 librispeech_examples_case9_reference - - bonafide
+NS2 vc_case1_denoised - - spoof
+NS2 vc_case1_ref - - bonafide
+NS2 vc_case2_denoised - - spoof
+NS2 vc_case2_ref - - bonafide
+NS2 vc_case3_denoised - - spoof
+NS2 vc_case3_ref - - bonafide
+NS2 vctk_examples_case1_ns - - spoof
+NS2 vctk_examples_case1_reference - - bonafide
+NS2 vctk_examples_case2_ns - - spoof
+NS2 vctk_examples_case2_reference - - bonafide
+NS2 vctk_examples_case3_ns - - spoof
+NS2 vctk_examples_case3_reference - - bonafide
+NS2 vctk_examples_case4_ns - - spoof
+NS2 vctk_examples_case4_reference - - bonafide
+NS2 vctk_examples_case5_ns - - spoof
+NS2 vctk_examples_case5_reference - - bonafide
+NS2 vctk_examples_case6_ns - - spoof
+NS2 vctk_examples_case6_reference - - bonafide
+NS2 vctk_examples_case7_ns - - spoof
+NS2 vctk_examples_case7_reference - - bonafide
+NS2 vctk_examples_case9_ns - - spoof
+NS2 vctk_examples_case9_reference - - bonafide
+SIMPLESPEECH2 ablation_speech_tokenizer_ours_prompt_17 - spoof
+SIMPLESPEECH2 ablation_speech_tokenizer_ours_prompt_18 - spoof  
+SIMPLESPEECH2 ablation_speech_tokenizer_ours_prompt_19 - spoof
+SIMPLESPEECH2 ablation_speech_tokenizer_prompt_prompt_17 - bonafide
+SIMPLESPEECH2 ablation_speech_tokenizer_prompt_prompt_18 - bonafide
+SIMPLESPEECH2 ablation_speech_tokenizer_prompt_prompt_19 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_ARDiT_ours_1 - spoof
+SIMPLESPEECH2 compare_baseline_mos_ARDiT_ours_12 - spoof
+SIMPLESPEECH2 compare_baseline_mos_ARDiT_ours_2 - spoof
+SIMPLESPEECH2 compare_baseline_mos_ARDiT_ours_6 - spoof
+SIMPLESPEECH2 compare_baseline_mos_ARDiT_ours_7 - spoof
+SIMPLESPEECH2 compare_baseline_mos_ARDiT_prompt_1 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_ARDiT_prompt_12 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_ARDiT_prompt_2 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_ARDiT_prompt_6 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_ARDiT_prompt_7 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_ditts_ours_0 - spoof
+SIMPLESPEECH2 compare_baseline_mos_ditts_ours_1 - spoof
+SIMPLESPEECH2 compare_baseline_mos_ditts_ours_2 - spoof
+SIMPLESPEECH2 compare_baseline_mos_ditts_ours_3 - spoof
+SIMPLESPEECH2 compare_baseline_mos_ditts_ours_4 - spoof
+SIMPLESPEECH2 compare_baseline_mos_ditts_prompt_0 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_ditts_prompt_1 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_ditts_prompt_2 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_ditts_prompt_3 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_ditts_prompt_4 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_e3tts_prompt2_prompt_00 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_e3tts_prompt2_prompt_16 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_e3tts_prompt2_prompt_17 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_e3tts_prompt2_prompt_18 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_e3tts_prompt2_prompt_19 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_e3tts_simplespeech2_prompt_00 - spoof
+SIMPLESPEECH2 compare_baseline_mos_e3tts_simplespeech2_prompt_16 - spoof
+SIMPLESPEECH2 compare_baseline_mos_e3tts_simplespeech2_prompt_17 - spoof
+SIMPLESPEECH2 compare_baseline_mos_e3tts_simplespeech2_prompt_18 - spoof
+SIMPLESPEECH2 compare_baseline_mos_e3tts_simplespeech2_prompt_19 - spoof
+SIMPLESPEECH2 compare_baseline_mos_ref2_common_voice_en_103675-common_voice_en_103676 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_ref2_common_voice_en_13900-common_voice_en_13901 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_ref2_common_voice_en_15265-common_voice_en_15266 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_ref2_common_voice_en_15903802-common_voice_en_15903807 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_ref2_emo_0 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_ref2_emo_1 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_ref2_emo_2 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_ref2_emo_3 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_ref2_en_4404-B_072759-073171 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_ref2_en_6282-B_013447-013580 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_ref2_p225_084 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_ref2_p229_020 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_ref2_prompt_18 - bonafide
+SIMPLESPEECH2 compare_baseline_mos_simplespeech2_common_voice_en_103675-common_voice_en_103676 - spoof
+SIMPLESPEECH2 compare_baseline_mos_simplespeech2_common_voice_en_13900-common_voice_en_13901 - spoof
+SIMPLESPEECH2 compare_baseline_mos_simplespeech2_common_voice_en_15265-common_voice_en_15266 - spoof
+SIMPLESPEECH2 compare_baseline_mos_simplespeech2_common_voice_en_15903802-common_voice_en_15903807 - spoof
+SIMPLESPEECH2 compare_baseline_mos_simplespeech2_emo_0 - spoof
+SIMPLESPEECH2 compare_baseline_mos_simplespeech2_emo_1 - spoof
+SIMPLESPEECH2 compare_baseline_mos_simplespeech2_emo_2 - spoof
+SIMPLESPEECH2 compare_baseline_mos_simplespeech2_emo_3 - spoof
+SIMPLESPEECH2 compare_baseline_mos_simplespeech2_en_4404-B_072759-073171 - spoof
+SIMPLESPEECH2 compare_baseline_mos_simplespeech2_en_6282-B_013447-013580 - spoof
+SIMPLESPEECH2 compare_baseline_mos_simplespeech2_p225_084 - spoof
+SIMPLESPEECH2 compare_baseline_mos_simplespeech2_p229_020 - spoof
+SIMPLESPEECH2 compare_baseline_mos_simplespeech2_prompt_18 - spoof
+CLAMTTS 0_ours - spoof
+CLAMTTS 1_ours - spoof
+CLAMTTS Becau_000 - spoof
+CLAMTTS Becau_001 - spoof
+CLAMTTS Becau_002 - spoof
+CLAMTTS Becau_003 - spoof
+CLAMTTS Becau_004 - spoof
+CLAMTTS He_ha_000 - spoof
+CLAMTTS He_ha_001 - spoof
+CLAMTTS He_ha_002 - spoof
+CLAMTTS He_ha_003 - spoof
+CLAMTTS He_ha_004 - spoof
+CLAMTTS I_mus_000 - spoof
+CLAMTTS I_mus_001 - spoof
+CLAMTTS I_mus_002 - spoof
+CLAMTTS I_mus_003 - spoof
+CLAMTTS I_mus_004 - spoof
+CLAMTTS Numbe_000 - spoof
+CLAMTTS Numbe_001 - spoof
+CLAMTTS Numbe_002 - spoof
+CLAMTTS Numbe_003 - spoof
+CLAMTTS Numbe_004 - spoof
+CLAMTTS caine_ours_edit - spoof
+CLAMTTS caine_prompt - bonafide
+CLAMTTS jessie_ours_edit - spoof
+CLAMTTS jessie_prompt - bonafide
+CLAMTTS librispeech_1089-134686-0004_ours_edit - spoof
+CLAMTTS librispeech_1089-134686-0004_prompt - bonafide
+CLAMTTS librispeech_1221-135767-0014_ours_edit - spoof
+CLAMTTS librispeech_1221-135767-0014_prompt - bonafide
+CLAMTTS librispeech_1284-1180-0002_ours_edit - spoof
+CLAMTTS librispeech_1284-1180-0002_prompt - bonafide
+CLAMTTS librispeech_16kHz_ours_0 - spoof
+CLAMTTS librispeech_16kHz_ours_1 - spoof
+CLAMTTS librispeech_16kHz_ours_10 - spoof
+CLAMTTS librispeech_16kHz_ours_11 - spoof
+CLAMTTS librispeech_16kHz_ours_12 - spoof
+CLAMTTS librispeech_16kHz_ours_13 - spoof
+CLAMTTS librispeech_16kHz_ours_14 - spoof
+CLAMTTS librispeech_16kHz_ours_15 - spoof
+CLAMTTS librispeech_16kHz_ours_2 - spoof
+CLAMTTS librispeech_16kHz_ours_3 - spoof
+CLAMTTS librispeech_16kHz_ours_4 - spoof
+CLAMTTS librispeech_16kHz_ours_5 - spoof
+CLAMTTS librispeech_16kHz_ours_6 - spoof
+CLAMTTS librispeech_16kHz_ours_7 - spoof
+CLAMTTS librispeech_16kHz_ours_8 - spoof
+CLAMTTS librispeech_16kHz_ours_9 - spoof
+CLAMTTS librispeech_16kHz_prompt_0 - bonafide
+CLAMTTS librispeech_16kHz_prompt_1 - bonafide
+CLAMTTS librispeech_16kHz_prompt_10 - bonafide
+CLAMTTS librispeech_16kHz_prompt_11 - bonafide
+CLAMTTS librispeech_16kHz_prompt_12 - bonafide
+CLAMTTS librispeech_16kHz_prompt_13 - bonafide
+CLAMTTS librispeech_16kHz_prompt_14 - bonafide
+CLAMTTS librispeech_16kHz_prompt_15 - bonafide
+CLAMTTS librispeech_16kHz_prompt_2 - bonafide
+CLAMTTS librispeech_16kHz_prompt_3 - bonafide
+CLAMTTS librispeech_16kHz_prompt_4 - bonafide
+CLAMTTS librispeech_16kHz_prompt_5 - bonafide
+CLAMTTS librispeech_16kHz_prompt_6 - bonafide
+CLAMTTS librispeech_16kHz_prompt_7 - bonafide
+CLAMTTS librispeech_16kHz_prompt_8 - bonafide
+CLAMTTS librispeech_16kHz_prompt_9 - bonafide
+CLAMTTS librispeech_4077-13754-0000_ours_edit - spoof
+CLAMTTS librispeech_4077-13754-0000_prompt - bonafide
+CLAMTTS librispeech_5639-40744-0020_ours_edit - spoof
+CLAMTTS librispeech_5639-40744-0020_prompt - bonafide
+CLAMTTS librispeech_61-70970-0007_ours_edit - spoof
+CLAMTTS librispeech_61-70970-0007_prompt - bonafide
+CLAMTTS librispeech_61-70970-0024_ours_edit - spoof
+CLAMTTS librispeech_61-70970-0024_prompt - bonafide
+CLAMTTS librispeech_908-157963-0027_ours_edit - spoof
+CLAMTTS librispeech_908-157963-0027_prompt - bonafide
+CLAMTTS mls_english_10611_10308_000071_ours_edit - spoof
+CLAMTTS mls_english_10611_10308_000071_prompt - bonafide
+CLAMTTS mls_english_12278_12446_000057_ours_edit - spoof
+CLAMTTS mls_english_12278_12446_000057_prompt - bonafide
+CLAMTTS now_000 - spoof
+CLAMTTS now_001 - spoof
+CLAMTTS now_002 - spoof
+CLAMTTS now_003 - spoof
+CLAMTTS now_004 - spoof
+CLAMTTS optimusprime_ours_edit - spoof
+CLAMTTS optimusprime_prompt - bonafide
+CLAMTTS provi_000 - spoof
+CLAMTTS provi_001 - spoof
+CLAMTTS provi_002 - spoof
+CLAMTTS provi_003 - spoof
+CLAMTTS provi_004 - spoof
+CLAMTTS rachel_ours_edit - spoof
+CLAMTTS rachel_prompt - bonafide
+CLAMTTS robert_ours_edit - spoof
+CLAMTTS robert_prompt - bonafide
+CLAMTTS sherlock_ours_edit - spoof
+CLAMTTS sherlock_prompt - bonafide
+CLAMTTS so_it_000 - spoof
+CLAMTTS so_it_001 - spoof
+CLAMTTS so_it_002 - spoof
+CLAMTTS so_it_003 - spoof
+CLAMTTS so_it_004 - spoof
+CLAMTTS vctk_p233_ours_edit - spoof
+CLAMTTS vctk_p233_prompt - bonafide
+CLAMTTS vctk_p248_ours_edit - spoof
+CLAMTTS vctk_p248_prompt - bonafide
+CLAMTTS vctk_p254_ours_edit - spoof
+CLAMTTS vctk_p254_prompt - bonafide
+CLAMTTS vctk_p255_ours_edit - spoof
+CLAMTTS vctk_p255_prompt - bonafide
+CLAMTTS vctk_p256_ours_edit - spoof
+CLAMTTS vctk_p256_prompt - bonafide
+CLAMTTS vctk_p262_ours_edit - spoof
+CLAMTTS vctk_p262_prompt - bonafide
+CLAMTTS vctk_p263_ours_edit - spoof
+CLAMTTS vctk_p263_prompt - bonafide
+CLAMTTS vctk_p273_ours_edit - spoof
+CLAMTTS vctk_p273_prompt - bonafide
+CLAMTTS zuck_ours_edit - spoof
+CLAMTTS zuck_prompt - bonafide
+SPEECHX 1284-1181-0004-post-edit_normalized - - spoof
+SPEECHX 1995-1826-0019-post-edit_normalized - - spoof
+SPEECHX task_clean_editing_sample1_61-70968-0020-post-edit_normalized - - spoof
+SPEECHX task_clean_editing_sample4_260-123286-0028-post-edit_normalized - - spoof
+SPEECHX task_tts_sample1_8555-292519-0007_predicted_normalized - - spoof
+SPEECHX task_tts_sample2_7729-102255-0002_predicted_normalized - - spoof
+SPEECHX task_tts_sample3_2300-131720-0000_predicted_normalized - - spoof
+SPEECHX task_tts_sample6_6829-68769-0018_predicted_normalized - - spoof
+SPEECHX 1284-1181-0004-pre-edit_normalized - - bonafide
+SPEECHX 1995-1826-0019-pre-edit_normalized - - bonafide
+SPEECHX task_clean_editing_sample1_61-70968-0020-pre-edit_normalized - - bonafide
+SPEECHX task_clean_editing_sample4_260-123286-0028-pre-edit_normalized - - bonafide
+SPEECHX task_tts_sample1_8555-292519-0007_enroll_normalized - - bonafide
+SPEECHX task_tts_sample2_7729-102255-0002_enroll_normalized - - bonafide
+SPEECHX task_tts_sample3_2300-131720-0000_enroll_normalized - - bonafide
+SPEECHX task_tts_sample6_6829-68769-0018_enroll_normalized - - bonafide
+VALLE emov_db_amused_ours - - spoof
+VALLE emov_db_amused_pt - - bonafide
+VALLE emov_db_anger_ours - - spoof
+VALLE emov_db_anger_pt - - bonafide
+VALLE emov_db_disgust_ours - - spoof
+VALLE emov_db_disgust_pt - - bonafide
+VALLE emov_db_neutral_ours - - spoof
+VALLE emov_db_neutral_pt - - bonafide
+VALLE emov_db_sleepiness_ours - - spoof
+VALLE emov_db_sleepiness_pt - - bonafide
+VALLE fisher_1_ours - - spoof
+VALLE fisher_1_pt - - bonafide
+VALLE fisher_2_ours - - spoof
+VALLE fisher_2_pt - - bonafide
+VALLE fisher_3_ours - - spoof
+VALLE fisher_3_pt - - bonafide
+VALLE fisher_4_ours - - spoof
+VALLE fisher_4_pt - - bonafide
+VALLE librispeech_1089-134686-0004_ours - - spoof
+VALLE librispeech_1089-134686-0004_prompt - - bonafide
+VALLE librispeech_121-127105-0006_ours1 - - spoof
+VALLE librispeech_121-127105-0006_ours2 - - spoof
+VALLE librispeech_121-127105-0006_ours3 - - spoof
+VALLE librispeech_121-127105-0006_prompt1 - - bonafide
+VALLE librispeech_121-127105-0006_prompt2 - - bonafide
+VALLE librispeech_121-127105-0006_prompt3 - - bonafide
+VALLE librispeech_1221-135767-0014_ours - - spoof
+VALLE librispeech_1221-135767-0014_prompt - - bonafide
+VALLE librispeech_1284-1180-0002_ours - - spoof
+VALLE librispeech_1284-1180-0002_prompt - - bonafide
+VALLE librispeech_1320-122617-0000_ours1 - - spoof
+VALLE librispeech_1320-122617-0000_ours2 - - spoof
+VALLE librispeech_1320-122617-0000_ours3 - - spoof
+VALLE librispeech_1320-122617-0000_prompt1 - - bonafide
+VALLE librispeech_1320-122617-0000_prompt2 - - bonafide
+VALLE librispeech_1320-122617-0000_prompt3 - - bonafide
+VALLE librispeech_2300-131720-0040_ours1 - - spoof
+VALLE librispeech_2300-131720-0040_ours2 - - spoof
+VALLE librispeech_2300-131720-0040_ours3 - - spoof
+VALLE librispeech_2300-131720-0040_prompt1 - - bonafide
+VALLE librispeech_2300-131720-0040_prompt2 - - bonafide
+VALLE librispeech_2300-131720-0040_prompt3 - - bonafide
+VALLE librispeech_2830-3980-0008_ours1 - - spoof
+VALLE librispeech_2830-3980-0008_ours2 - - spoof
+VALLE librispeech_2830-3980-0008_ours3 - - spoof
+VALLE librispeech_2830-3980-0008_prompt1 - - bonafide
+VALLE librispeech_2830-3980-0008_prompt2 - - bonafide
+VALLE librispeech_2830-3980-0008_prompt3 - - bonafide
+VALLE librispeech_2961-960-0014_ours1 - - spoof
+VALLE librispeech_2961-960-0014_ours2 - - spoof
+VALLE librispeech_2961-960-0014_ours3 - - spoof
+VALLE librispeech_2961-960-0014_prompt1 - - bonafide
+VALLE librispeech_2961-960-0014_prompt2 - - bonafide
+VALLE librispeech_2961-960-0014_prompt3 - - bonafide
+VALLE librispeech_3570-5696-0002_ours1 - - spoof
+VALLE librispeech_3570-5696-0002_ours2 - - spoof
+VALLE librispeech_3570-5696-0002_ours3 - - spoof
+VALLE librispeech_3570-5696-0002_prompt1 - - bonafide
+VALLE librispeech_3570-5696-0002_prompt2 - - bonafide
+VALLE librispeech_3570-5696-0002_prompt3 - - bonafide
+VALLE librispeech_4077-13754-0000_ours - - spoof
+VALLE librispeech_4077-13754-0000_prompt - - bonafide
+VALLE librispeech_5639-40744-0020_ours - - spoof
+VALLE librispeech_5639-40744-0020_prompt - - bonafide
+VALLE librispeech_61-70970-0007_ours - - spoof
+VALLE librispeech_61-70970-0007_prompt - - bonafide
+VALLE librispeech_61-70970-0024_ours - - spoof
+VALLE librispeech_61-70970-0024_prompt - - bonafide
+VALLE librispeech_7176-92135-0005_ours1 - - spoof
+VALLE librispeech_7176-92135-0005_ours2 - - spoof
+VALLE librispeech_7176-92135-0005_ours3 - - spoof
+VALLE librispeech_7176-92135-0005_prompt1 - - bonafide
+VALLE librispeech_7176-92135-0005_prompt2 - - bonafide
+VALLE librispeech_7176-92135-0005_prompt3 - - bonafide
+VALLE librispeech_7729-102255-0030_ours1 - - spoof
+VALLE librispeech_7729-102255-0030_ours2 - - spoof
+VALLE librispeech_7729-102255-0030_ours3 - - spoof
+VALLE librispeech_7729-102255-0030_prompt1 - - bonafide
+VALLE librispeech_7729-102255-0030_prompt2 - - bonafide
+VALLE librispeech_7729-102255-0030_prompt3 - - bonafide
+VALLE librispeech_908-157963-0027_ours - - spoof
+VALLE librispeech_908-157963-0027_prompt - - bonafide
+VALLE librispeech_diversity_sample2_0 - - spoof
+VALLE librispeech_diversity_sample2_1 - - spoof
+VALLE librispeech_diversity_sample2_prompt - - bonafide
+VALLE vctk_diversity_p226_prompt - - bonafide
+VALLE vctk_diversity_p226_s1 - - spoof
+VALLE vctk_diversity_p226_s2 - - spoof
+VALLE vctk_diversity_p230_prompt - - bonafide
+VALLE vctk_diversity_p230_s1 - - spoof
+VALLE vctk_diversity_p230_s2 - - spoof
+VALLE vctk_diversity_p246_prompt - - bonafide
+VALLE vctk_diversity_p246_s1 - - spoof
+VALLE vctk_diversity_p246_s2 - - spoof
+VALLE vctk_p233_ours - - spoof
+VALLE vctk_p233_prompt - - bonafide
+VALLE vctk_p248_ours - - spoof
+VALLE vctk_p248_prompt - - bonafide
+VALLE vctk_p254_ours - - spoof
+VALLE vctk_p254_prompt - - bonafide
+VALLE vctk_p255_ours - - spoof
+VALLE vctk_p255_prompt - - bonafide
+VALLE vctk_p256_ours - - spoof
+VALLE vctk_p256_prompt - - bonafide
+VALLE vctk_p262_ours - - spoof
+VALLE vctk_p262_prompt - - bonafide
+VALLE vctk_p263_ours - - spoof
+VALLE vctk_p263_prompt - - bonafide
+VALLE vctk_p273_ours - - spoof
+VALLE vctk_p273_prompt - - bonafide
+TACOLM continuation_gt_3s_2830-3979-0003 - bonafide
+TACOLM continuation_gt_3s_2961-961-0015 - bonafide
+TACOLM continuation_gt_3s_2961-961-0016 - bonafide
+TACOLM continuation_gt_3s_3575-170457-0025 - bonafide
+TACOLM continuation_gt_3s_5639-40744-0013 - bonafide
+TACOLM continuation_gt_3s_61-70968-0010 - bonafide
+TACOLM continuation_gt_3s_8230-279154-0022 - bonafide
+TACOLM continuation_gt_3s_8555-284449-0008 - bonafide
+TACOLM continuation_taco_2830-3979-0003 - spoof
+TACOLM continuation_taco_2961-961-0015 - spoof
+TACOLM continuation_taco_2961-961-0016 - spoof
+TACOLM continuation_taco_3575-170457-0025 - spoof
+TACOLM continuation_taco_5639-40744-0013 - spoof
+TACOLM continuation_taco_61-70968-0010 - spoof
+TACOLM continuation_taco_8230-279154-0022 - spoof
+TACOLM continuation_taco_8555-284449-0008 - spoof
+SIMPLESPEECH1 compare_audiobox_ours_audiobox1 - - spoof
+SIMPLESPEECH1 compare_audiobox_ours_audiobox2 - - spoof
+SIMPLESPEECH1 compare_audiobox_ours_audiobox3 - - spoof
+SIMPLESPEECH1 compare_ns2_ours_11_syn - - spoof
+SIMPLESPEECH1 compare_ns2_ours_13_syn - - spoof
+SIMPLESPEECH1 compare_ns2_ours_1_syn - - spoof
+SIMPLESPEECH1 compare_ns2_ours_2_syn - - spoof
+SIMPLESPEECH1 compare_ns2_ours_33_syn - - spoof
+SIMPLESPEECH1 compare_ns2_ours_35_syn - - spoof
+SIMPLESPEECH1 compare_ns2_ours_5_syn - - spoof
+SIMPLESPEECH1 compare_ns2_prompt_11_ref - - bonafide
+SIMPLESPEECH1 compare_ns2_prompt_13_ref - - bonafide
+SIMPLESPEECH1 compare_ns2_prompt_1_ref - - bonafide
+SIMPLESPEECH1 compare_ns2_prompt_2_ref - - bonafide
+SIMPLESPEECH1 compare_ns2_prompt_33_ref - - bonafide
+SIMPLESPEECH1 compare_ns2_prompt_35_ref - - bonafide
+SIMPLESPEECH1 compare_ns2_prompt_5_ref - - bonafide
+SIMPLESPEECH1 compare_uniaudio_ours_tts_1284-1180-0024 - - spoof
+SIMPLESPEECH1 compare_uniaudio_ours_tts_237-134493-0000 - - spoof
+SIMPLESPEECH1 compare_uniaudio_prompt_tts_1284-1180-0001 - - bonafide
+SIMPLESPEECH1 compare_uniaudio_prompt_tts_237-126133-0024 - - bonafide
+SIMPLESPEECH1 e3tts_prompt_10 - - bonafide
+SIMPLESPEECH1 e3tts_prompt_12 - - bonafide
+SIMPLESPEECH1 e3tts_prompt_13 - - bonafide
+SIMPLESPEECH1 e3tts_prompt_14 - - bonafide
+SIMPLESPEECH1 e3tts_prompt_15 - - bonafide
+SIMPLESPEECH1 ns3_ours_g1 - - spoof
+SIMPLESPEECH1 ns3_ours_g2 - - spoof
+SIMPLESPEECH1 ns3_ours_g5 - - spoof
+SIMPLESPEECH1 ns3_ours_g6 - - spoof
+SIMPLESPEECH1 ns3_prompt_ns3_p1 - - bonafide
+SIMPLESPEECH1 ns3_prompt_ns3_p2 - - bonafide
+SIMPLESPEECH1 ns3_prompt_ns3_p5 - - bonafide
+SIMPLESPEECH1 ns3_prompt_ns3_p6 - - bonafide
+SIMPLESPEECH1 ours_prompt_00 - - spoof
+SIMPLESPEECH1 ours_prompt_01 - - spoof
+SIMPLESPEECH1 ours_prompt_02 - - spoof
+SIMPLESPEECH1 ours_prompt_03 - - spoof
+SIMPLESPEECH1 ours_prompt_04 - - spoof
+SIMPLESPEECH1 ours_prompt_05 - - spoof
+SIMPLESPEECH1 ours_prompt_06 - - spoof
+SIMPLESPEECH1 ours_prompt_10 - - spoof
+SIMPLESPEECH1 ours_prompt_12 - - spoof
+SIMPLESPEECH1 ours_prompt_13 - - spoof
+SIMPLESPEECH1 ours_prompt_14 - - spoof
+SIMPLESPEECH1 ours_prompt_15 - - spoof
+SIMPLESPEECH1 ours_prompt_16 - - spoof
+SIMPLESPEECH1 ours_prompt_17 - - spoof
+SIMPLESPEECH1 ours_prompt_18 - - spoof
+SIMPLESPEECH1 ours_prompt_19 - - spoof
+SIMPLESPEECH1 prompt2_prompt_00 - - bonafide
+SIMPLESPEECH1 prompt2_prompt_01 - - bonafide
+SIMPLESPEECH1 prompt2_prompt_02 - - bonafide
+SIMPLESPEECH1 prompt2_prompt_03 - - bonafide
+SIMPLESPEECH1 prompt2_prompt_04 - - bonafide
+SIMPLESPEECH1 prompt2_prompt_05 - - bonafide
+SIMPLESPEECH1 prompt2_prompt_06 - - bonafide
+SIMPLESPEECH1 prompt2_prompt_10 - - bonafide
+SIMPLESPEECH1 prompt2_prompt_12 - - bonafide
+SIMPLESPEECH1 prompt2_prompt_13 - - bonafide
+SIMPLESPEECH1 prompt2_prompt_14 - - bonafide
+SIMPLESPEECH1 prompt2_prompt_15 - - bonafide
+SIMPLESPEECH1 prompt2_prompt_16 - - bonafide
+SIMPLESPEECH1 prompt2_prompt_17 - - bonafide
+SIMPLESPEECH1 prompt2_prompt_18 - - bonafide
+SIMPLESPEECH1 prompt2_prompt_19 - - bonafide
+UNIAUDIO zero_shot_tts_gen_tts_1089-134686-0021 - - spoof
+UNIAUDIO zero_shot_tts_gen_tts_1284-1180-0024 - - spoof
+UNIAUDIO zero_shot_tts_gen_tts_1320-122612-0001 - - spoof
+UNIAUDIO zero_shot_tts_gen_tts_237-134493-0000 - - spoof
+UNIAUDIO zero_shot_tts_gen_tts_5683-32866-0004 - - spoof
+UNIAUDIO zero_shot_tts_ref_1320_122612_000001_000000 - - bonafide
+UNIAUDIO zero_shot_tts_ref_5683_32865_000001_000000 - - bonafide
+UNIAUDIO zero_shot_tts_ref_tts_1188-133604-0004 - - bonafide
+UNIAUDIO zero_shot_tts_ref_tts_1284-1180-0001 - - bonafide
+UNIAUDIO zero_shot_tts_ref_tts_237-126133-0024 - - bonafide
+UNIAUDIO zero_shot_vc_gen_VC_vctk_0_1 - - spoof
+UNIAUDIO zero_shot_vc_gen_VC_vctk_0_2 - - spoof
+UNIAUDIO zero_shot_vc_gen_VC_vctk_0_3 - - spoof
+UNIAUDIO zero_shot_vc_gen_VC_vctk_25_4 - - spoof
+UNIAUDIO zero_shot_vc_gen_VC_vctk_27_1 - - spoof
+UNIAUDIO zero_shot_vc_gen_VC_vctk_33_3 - - spoof
+UNIAUDIO zero_shot_vc_prompt_VC_vctk_0_1 - - bonafide
+UNIAUDIO zero_shot_vc_prompt_VC_vctk_0_2 - - bonafide
+UNIAUDIO zero_shot_vc_prompt_VC_vctk_0_3 - - bonafide
+UNIAUDIO zero_shot_vc_prompt_VC_vctk_25_4 - - bonafide
+UNIAUDIO zero_shot_vc_prompt_VC_vctk_27_1 - - bonafide
+UNIAUDIO zero_shot_vc_prompt_VC_vctk_33_3 - - bonafide
+TI1G1R 0_7176_88083_000024_000007 - - bonafide
+TI1G1R 1_8224_274384_000017_000001 - - bonafide
+TI1G1R 7_3570_5694_000014_000021 - - bonafide
+TI1G1R audios_valle_gl-1g1r-cos_1580_141083_000041_000001-2155_from_1580_141083_000024_000000-2154 - - spoof
+TI1G1R audios_valle_gl-1g1r-cos_260_123440_000024_000001-11_from_260_123440_000023_000003-9 - - spoof
+TI1G1R audios_valle_gl-1g1r-cos_8230_279154_000022_000004-2556_from_8230_279154_000004_000004-2542 - - spoof
+TI1G1R audios_valle_gl-1g1r_1580_141083_000041_000001-2155_from_1580_141083_000024_000000-2154 - - spoof
+TI1G1R audios_valle_gl-1g1r_260_123440_000024_000001-11_from_260_123440_000023_000003-9 - - spoof
+TI1G1R audios_valle_gl-1g1r_8230_279154_000022_000004-2556_from_8230_279154_000004_000004-2542 - - spoof
+TI1G1R audios_valle_target_1580_141083_000041_000001-2155 - - bonafide
+TI1G1R audios_valle_target_260_123440_000024_000001-11 - - bonafide
+TI1G1R audios_valle_target_8230_279154_000022_000004-2556 - - bonafide
+NS3 Ravdess_TTS_our_1 - - spoof
+NS3 Ravdess_TTS_our_10 - - spoof
+NS3 Ravdess_TTS_our_11 - - spoof
+NS3 Ravdess_TTS_our_12 - - spoof
+NS3 Ravdess_TTS_our_13 - - spoof
+NS3 Ravdess_TTS_our_14 - - spoof
+NS3 Ravdess_TTS_our_15 - - spoof
+NS3 Ravdess_TTS_our_16 - - spoof
+NS3 Ravdess_TTS_our_2 - - spoof
+NS3 Ravdess_TTS_our_3 - - spoof
+NS3 Ravdess_TTS_our_4 - - spoof
+NS3 Ravdess_TTS_our_5 - - spoof
+NS3 Ravdess_TTS_our_6 - - spoof
+NS3 Ravdess_TTS_our_7 - - spoof
+NS3 Ravdess_TTS_our_8 - - spoof
+NS3 Ravdess_TTS_our_9 - - spoof
+NS3 audio_attr_prosody_gen - - spoof
+NS3 audio_attr_prosody_prompt - - bonafide
+NS3 audio_attr_prosody_sad_gen - - spoof
+NS3 audio_attr_prosody_sad_prompt - - bonafide
+NS3 audio_attr_timbre_15_prompt - - bonafide
+NS3 audio_attr_timbre_2_Prompt - - bonafide
+NS3 audio_attr_timbre_timbre15_gen - - spoof
+NS3 audio_attr_timbre_timbre2_gen - - spoof
+NS3 audio_vc_Generate_1 - - spoof
+NS3 audio_vc_Generate_2 - - spoof
+NS3 audio_vc_Generate_3 - - spoof
+NS3 audio_vc_Generate_4 - - spoof
+NS3 audio_vc_Prompt_1 - - bonafide
+NS3 audio_vc_Prompt_2 - - bonafide
+NS3 audio_vc_Prompt_3 - - bonafide
+NS3 audio_vc_Prompt_4 - - bonafide
+NS3 librispeech_TTS_our_1 - - spoof
+NS3 librispeech_TTS_our_2 - - spoof
+NS3 librispeech_TTS_our_3 - - spoof
+NS3 librispeech_TTS_our_4 - - spoof
+NS3 naturalspeech3_audio_samples_1_gen - - spoof
+NS3 naturalspeech3_audio_samples_1_prompt - - bonafide
+NS3 naturalspeech3_audio_samples_2_gen - - spoof
+NS3 naturalspeech3_audio_samples_2_prompt - - bonafide
+NS3 naturalspeech3_audio_samples_3_gen - - spoof
+NS3 naturalspeech3_audio_samples_3_prompt - - bonafide
+NS3 naturalspeech3_audio_samples_4_gen - - spoof
+NS3 naturalspeech3_audio_samples_4_prompt - - bonafide
+NS3 zstts_Ravdess_prompt_1 - - bonafide
+NS3 zstts_Ravdess_prompt_10 - - bonafide
+NS3 zstts_Ravdess_prompt_11 - - bonafide
+NS3 zstts_Ravdess_prompt_12 - - bonafide
+NS3 zstts_Ravdess_prompt_13 - - bonafide
+NS3 zstts_Ravdess_prompt_14 - - bonafide
+NS3 zstts_Ravdess_prompt_15 - - bonafide
+NS3 zstts_Ravdess_prompt_16 - - bonafide
+NS3 zstts_Ravdess_prompt_2 - - bonafide
+NS3 zstts_Ravdess_prompt_3 - - bonafide
+NS3 zstts_Ravdess_prompt_4 - - bonafide
+NS3 zstts_Ravdess_prompt_5 - - bonafide
+NS3 zstts_Ravdess_prompt_6 - - bonafide
+NS3 zstts_Ravdess_prompt_7 - - bonafide
+NS3 zstts_Ravdess_prompt_8 - - bonafide
+NS3 zstts_Ravdess_prompt_9 - - bonafide
+NS3 zstts_librispeech_prompt_1 - - bonafide
+NS3 zstts_librispeech_prompt_2 - - bonafide
+NS3 zstts_librispeech_prompt_3 - - bonafide
+NS3 zstts_librispeech_prompt_4 - - bonafide
+USLM prompt - - bonafide
+USLM prompt1 - - bonafide
+USLM prompt2 - - bonafide
+USLM prompt3 - - bonafide
+USLM prompt4 - - bonafide
+USLM speechtokenizer - - spoof
+USLM speechtokenizer1 - - spoof
+USLM speechtokenizer2 - - spoof
+USLM speechtokenizer3 - - spoof
+USLM speechtokenizer4 - - spoof
+RALLE zero-shot_prompt_01 - bonafide
+RALLE zero-shot_prompt_02 - bonafide
+RALLE zero-shot_prompt_03 - bonafide
+RALLE zero-shot_prompt_04 - bonafide
+RALLE zero-shot_prompt_05 - bonafide
+RALLE zero-shot_ralle_01 - spoof
+RALLE zero-shot_ralle_02 - spoof
+RALLE zero-shot_ralle_03 - spoof
+RALLE zero-shot_ralle_04 - spoof
+RALLE zero-shot_ralle_05 - spoof
+GPST 1058_prompt - - bonafide
+GPST 1058_st2at - - spoof
+GPST 1069_st2at - - spoof
+GPST 1069_tts - - spoof
+GPST 1201_pred - - spoof
+GPST 1201_prompt - - bonafide
+GPST 1201_st2at - - spoof
+GPST 1223_st2at - - spoof
+GPST 1223_tts - - spoof
+GPST 160_prompt - - bonafide
+GPST 160_st2at - - spoof
+GPST 173_pred - - spoof
+GPST 184_pred - - spoof
+GPST 202_prompt - - bonafide
+GPST 202_st2at - - spoof
+GPST 283_pred - - spoof
+GPST 304_st2at - - spoof
+GPST 304_tts - - spoof
+GPST 419_pred - - spoof
+GPST 527_pred - - spoof
+GPST 542_pred - - spoof
+GPST 544_prompt - - bonafide
+GPST 544_st2at - - spoof
+GPST 605_prompt - - bonafide
+GPST 605_st2at - - spoof
+GPST 60_pred - - spoof
+GPST 638_st2at - - spoof
+GPST 638_tts - - spoof
+GPST 641_prompt - - bonafide
+GPST 641_st2at - - spoof
+GPST 749_st2at - - spoof
+GPST 749_tts - - spoof
+GPST 852_pred - - spoof
+GPST 854_pred - - spoof
+GPST 880_prompt - - bonafide
+GPST 880_st2at - - spoof
+GPST 942_prompt - - bonafide
+GPST 942_st2at - - spoof
+GPST 990_prompt - - bonafide
+GPST 990_st2at - - spoof
+MASKGCT 1995-1826-0000_maskgct - - spoof
+MASKGCT 1995-1837-0025_maskgct - - spoof
+MASKGCT 1995-1837-0019_maskgct - - spoof
+MASKGCT 1995-1836-0011_maskgct - - spoof
+MASKGCT 1995-1836-0006_maskgct - - spoof
+MASKGCT 1995-1837-0004_maskgct - - spoof
+MASKGCT 1995-1837-0027_maskgct - - spoof
+MASKGCT 1995-1837-0029_maskgct - - spoof
+MASKGCT 1995-1836-0003_maskgct - - spoof
+MASKGCT 1995-1826-0017_maskgct - - spoof
+MASKGCT 1995-1826-0022_maskgct - - spoof
+MASKGCT 1995-1826-0020_maskgct - - spoof
+MASKGCT 1995-1836-0008_maskgct - - spoof
+MASKGCT 1995-1826-0012_maskgct - - spoof
+MASKGCT 1995-1826-0007_maskgct - - spoof
+MASKGCT 1995-1837-0001_maskgct - - spoof
+MASKGCT 1995-1837-0012_maskgct - - spoof
+MASKGCT 1995-1837-0024_maskgct - - spoof
+MASKGCT 1580-141083-0024_maskgct - - spoof
+MASKGCT 1580-141084-0041_maskgct - - spoof
+MASKGCT 1580-141084-0002_maskgct - - spoof
+MASKGCT 1580-141083-0033_maskgct - - spoof
+MASKGCT 1580-141084-0029_maskgct - - spoof
+MASKGCT 1580-141084-0016_maskgct - - spoof
+MASKGCT 1580-141083-0013_maskgct - - spoof
+MASKGCT 1580-141083-0003_maskgct - - spoof
+MASKGCT 1580-141084-0031_maskgct - - spoof
+MASKGCT 1580-141084-0040_maskgct - - spoof
+MASKGCT 1580-141083-0026_maskgct - - spoof
+MASKGCT 1580-141084-0024_maskgct - - spoof
+MASKGCT 1580-141084-0023_maskgct - - spoof
+MASKGCT 1580-141083-0004_maskgct - - spoof
+MASKGCT 1580-141083-0037_maskgct - - spoof
+MASKGCT 1580-141084-0039_maskgct - - spoof
+MASKGCT 1580-141084-0032_maskgct - - spoof
+MASKGCT 1580-141083-0038_maskgct - - spoof
+MASKGCT 1580-141084-0033_maskgct - - spoof
+MASKGCT 1580-141083-0034_maskgct - - spoof
+MASKGCT 1580-141084-0009_maskgct - - spoof
+MASKGCT 1580-141084-0008_maskgct - - spoof
+MASKGCT 1580-141083-0032_maskgct - - spoof
+MASKGCT 1580-141083-0000_maskgct - - spoof
+MASKGCT 1580-141083-0015_maskgct - - spoof
+MASKGCT 237-126133-0010_maskgct - - spoof
+MASKGCT 237-126133-0007_maskgct - - spoof
+MASKGCT 237-126133-0024_maskgct - - spoof
+MASKGCT 237-126133-0019_maskgct - - spoof
+MASKGCT 237-126133-0018_maskgct - - spoof
+MASKGCT 237-126133-0017_maskgct - - spoof
+MASKGCT 237-126133-0015_maskgct - - spoof
+MASKGCT 237-126133-0005_maskgct - - spoof
+MASKGCT 237-126133-0022_maskgct - - spoof
+MASKGCT 260-123440-0010_maskgct - - spoof
+MASKGCT 260-123440-0015_maskgct - - spoof
+MASKGCT 260-123440-0011_maskgct - - spoof
+MASKGCT 260-123286-0026_maskgct - - spoof
+MASKGCT 260-123288-0004_maskgct - - spoof
+MASKGCT 260-123286-0011_maskgct - - spoof
+MASKGCT 260-123286-0000_maskgct - - spoof
+MASKGCT 260-123288-0017_maskgct - - spoof
+MASKGCT 260-123286-0031_maskgct - - spoof
+MASKGCT 260-123288-0008_maskgct - - spoof
+MASKGCT 260-123440-0020_maskgct - - spoof
+MASKGCT 260-123286-0023_maskgct - - spoof
+MASKGCT 260-123288-0003_maskgct - - spoof
+MASKGCT 260-123286-0030_maskgct - - spoof
+MASKGCT 260-123286-0006_maskgct - - spoof
+MASKGCT 260-123286-0013_maskgct - - spoof
+MASKGCT 260-123286-0016_maskgct - - spoof
+MASKGCT 260-123286-0007_maskgct - - spoof
+MASKGCT 260-123286-0018_maskgct - - spoof
+MASKGCT 7176-88083-0024_maskgct - - spoof
+MASKGCT 7176-88083-0023_maskgct - - spoof
+MASKGCT 7176-88083-0000_maskgct - - spoof
+MASKGCT 7176-88083-0026_maskgct - - spoof
+MASKGCT 7176-92135-0044_maskgct - - spoof
+MASKGCT 7176-92135-0022_maskgct - - spoof
+MASKGCT 7176-92135-0009_maskgct - - spoof
+MASKGCT 7176-92135-0018_maskgct - - spoof
+MASKGCT 7176-88083-0002_maskgct - - spoof
+MASKGCT 7176-92135-0001_maskgct - - spoof
+MASKGCT 7176-88083-0003_maskgct - - spoof
+MASKGCT 7176-92135-0024_maskgct - - spoof
+MASKGCT 7176-88083-0020_maskgct - - spoof
+MASKGCT 7176-88083-0022_maskgct - - spoof
+MASKGCT 3575-170457-0048_maskgct - - spoof
+MASKGCT 3575-170457-0013_maskgct - - spoof
+MASKGCT 3575-170457-0006_maskgct - - spoof
+MASKGCT 3575-170457-0022_maskgct - - spoof
+MASKGCT 3575-170457-0031_maskgct - - spoof
+MASKGCT 3575-170457-0023_maskgct - - spoof
+MASKGCT 3575-170457-0020_maskgct - - spoof
+MASKGCT 3575-170457-0029_maskgct - - spoof
+MASKGCT 3575-170457-0010_maskgct - - spoof
+MASKGCT 3575-170457-0030_maskgct - - spoof
+MASKGCT 3575-170457-0025_maskgct - - spoof
+MASKGCT 3575-170457-0021_maskgct - - spoof
+MASKGCT 3575-170457-0012_maskgct - - spoof
+MASKGCT 3575-170457-0033_maskgct - - spoof
+MASKGCT 3575-170457-0003_maskgct - - spoof
+MASKGCT 3575-170457-0005_maskgct - - spoof
+MASKGCT 5683-32879-0003_maskgct - - spoof
+MASKGCT 5683-32879-0009_maskgct - - spoof
+MASKGCT 5683-32866-0002_maskgct - - spoof
+MASKGCT 5683-32879-0018_maskgct - - spoof
+MASKGCT 5683-32865-0013_maskgct - - spoof
+MASKGCT 5683-32866-0004_maskgct - - spoof
+MASKGCT 5683-32879-0011_maskgct - - spoof
+MASKGCT 5683-32879-0005_maskgct - - spoof
+MASKGCT 5683-32865-0015_maskgct - - spoof
+MASKGCT 5683-32879-0012_maskgct - - spoof
+MASKGCT 5683-32879-0019_maskgct - - spoof
+MASKGCT 5683-32866-0017_maskgct - - spoof
+MASKGCT 5683-32866-0018_maskgct - - spoof
+MASKGCT 5683-32866-0007_maskgct - - spoof
+MASKGCT 5683-32866-0012_maskgct - - spoof
+MASKGCT 5683-32865-0004_maskgct - - spoof
+MASKGCT 5683-32865-0008_maskgct - - spoof
+MASKGCT 5683-32865-0007_maskgct - - spoof
+MASKGCT 5683-32866-0024_maskgct - - spoof
+MASKGCT 5683-32879-0000_maskgct - - spoof
+MASKGCT 2830-3980-0041_maskgct - - spoof
+MASKGCT 2830-3980-0038_maskgct - - spoof
+MASKGCT 2830-3979-0008_maskgct - - spoof
+MASKGCT 2830-3980-0025_maskgct - - spoof
+MASKGCT 2830-3979-0006_maskgct - - spoof
+MASKGCT 2830-3980-0008_maskgct - - spoof
+MASKGCT 2830-3980-0062_maskgct - - spoof
+MASKGCT 2830-3980-0076_maskgct - - spoof
+MASKGCT 2830-3980-0067_maskgct - - spoof
+MASKGCT 2830-3980-0075_maskgct - - spoof
+MASKGCT 2830-3980-0030_maskgct - - spoof
+MASKGCT 2830-3980-0063_maskgct - - spoof
+MASKGCT 2830-3980-0010_maskgct - - spoof
+MASKGCT 2830-3980-0011_maskgct - - spoof
+MASKGCT 2830-3980-0056_maskgct - - spoof
+MASKGCT 2830-3980-0066_maskgct - - spoof
+MASKGCT 2830-3980-0006_maskgct - - spoof
+MASKGCT 2830-3980-0053_maskgct - - spoof
+MASKGCT 2830-3980-0055_maskgct - - spoof
+MASKGCT 2830-3980-0052_maskgct - - spoof
+MASKGCT 2830-3980-0069_maskgct - - spoof
+MASKGCT 2830-3979-0009_maskgct - - spoof
+MASKGCT 2830-3979-0000_maskgct - - spoof
+MASKGCT 2961-961-0013_maskgct - - spoof
+MASKGCT 2961-960-0016_maskgct - - spoof
+MASKGCT 2961-961-0007_maskgct - - spoof
+MASKGCT 2961-960-0001_maskgct - - spoof
+MASKGCT 2961-961-0003_maskgct - - spoof
+MASKGCT 2961-961-0020_maskgct - - spoof
+MASKGCT 2961-961-0021_maskgct - - spoof
+MASKGCT 2961-961-0016_maskgct - - spoof
+MASKGCT 2961-960-0017_maskgct - - spoof
+MASKGCT 2961-961-0017_maskgct - - spoof
+MASKGCT 2961-960-0004_maskgct - - spoof
+MASKGCT 2961-960-0022_maskgct - - spoof
+MASKGCT 2961-960-0015_maskgct - - spoof
+MASKGCT 2961-960-0007_maskgct - - spoof
+MASKGCT 5105-28240-0017_maskgct - - spoof
+MASKGCT 5105-28241-0000_maskgct - - spoof
+MASKGCT 5105-28233-0006_maskgct - - spoof
+MASKGCT 5105-28240-0002_maskgct - - spoof
+MASKGCT 5105-28241-0009_maskgct - - spoof
+MASKGCT 5105-28233-0000_maskgct - - spoof
+MASKGCT 5105-28241-0013_maskgct - - spoof
+MASKGCT 5105-28241-0008_maskgct - - spoof
+MASKGCT 5105-28240-0015_maskgct - - spoof
+MASKGCT 5105-28241-0005_maskgct - - spoof
+MASKGCT 5105-28240-0004_maskgct - - spoof
+MASKGCT 5105-28240-0011_maskgct - - spoof
+MASKGCT 5105-28233-0002_maskgct - - spoof
+MASKGCT 5142-36377-0004_maskgct - - spoof
+MASKGCT 5142-33396-0024_maskgct - - spoof
+MASKGCT 5142-36377-0013_maskgct - - spoof
+MASKGCT 5142-36377-0015_maskgct - - spoof
+MASKGCT 5142-33396-0038_maskgct - - spoof
+MASKGCT 5142-36377-0023_maskgct - - spoof
+MASKGCT 5142-33396-0033_maskgct - - spoof
+MASKGCT 5142-33396-0068_maskgct - - spoof
+MASKGCT 5142-33396-0012_maskgct - - spoof
+MASKGCT 5142-33396-0054_maskgct - - spoof
+MASKGCT 5142-33396-0001_maskgct - - spoof
+MASKGCT 5142-36377-0010_maskgct - - spoof
+MASKGCT 5142-33396-0022_maskgct - - spoof
+MASKGCT 5142-33396-0006_maskgct - - spoof
+MASKGCT 5142-36377-0017_maskgct - - spoof
+MASKGCT 5142-33396-0065_maskgct - - spoof
+MASKGCT 5142-33396-0067_maskgct - - spoof
+MASKGCT 5142-33396-0015_maskgct - - spoof
+MASKGCT 5142-36377-0005_maskgct - - spoof
+MASKGCT 5142-36377-0007_maskgct - - spoof
+MASKGCT 4970-29095-0027_maskgct - - spoof
+MASKGCT 4970-29095-0035_maskgct - - spoof
+MASKGCT 4970-29093-0007_maskgct - - spoof
+MASKGCT 4970-29095-0022_maskgct - - spoof
+MASKGCT 4970-29095-0030_maskgct - - spoof
+MASKGCT 4970-29095-0012_maskgct - - spoof
+MASKGCT 4970-29095-0016_maskgct - - spoof
+MASKGCT 4970-29095-0005_maskgct - - spoof
+MASKGCT 4970-29093-0009_maskgct - - spoof
+MASKGCT 4970-29095-0009_maskgct - - spoof
+MASKGCT 4970-29095-0034_maskgct - - spoof
+MASKGCT 4970-29093-0023_maskgct - - spoof
+MASKGCT 4970-29093-0019_maskgct - - spoof
+MASKGCT 4970-29093-0018_maskgct - - spoof
+MASKGCT 5639-40744-0024_maskgct - - spoof
+MASKGCT 5639-40744-0020_maskgct - - spoof
+MASKGCT 5639-40744-0005_maskgct - - spoof
+MASKGCT 5639-40744-0033_maskgct - - spoof
+MASKGCT 5639-40744-0007_maskgct - - spoof
+MASKGCT 5639-40744-0012_maskgct - - spoof
+MASKGCT 5639-40744-0002_maskgct - - spoof
+MASKGCT 5639-40744-0016_maskgct - - spoof
+MASKGCT 2094-142345-0023_maskgct - - spoof
+MASKGCT 2094-142345-0052_maskgct - - spoof
+MASKGCT 2094-142345-0049_maskgct - - spoof
+MASKGCT 2094-142345-0027_maskgct - - spoof
+MASKGCT 2094-142345-0005_maskgct - - spoof
+MASKGCT 2094-142345-0051_maskgct - - spoof
+MASKGCT 7729-102255-0033_maskgct - - spoof
+MASKGCT 7729-102255-0036_maskgct - - spoof
+MASKGCT 7729-102255-0045_maskgct - - spoof
+MASKGCT 7729-102255-0031_maskgct - - spoof
+MASKGCT 7729-102255-0029_maskgct - - spoof
+MASKGCT 7729-102255-0005_maskgct - - spoof
+MASKGCT 7729-102255-0030_maskgct - - spoof
+MASKGCT 7729-102255-0014_maskgct - - spoof
+MASKGCT 4446-2273-0021_maskgct - - spoof
+MASKGCT 4446-2275-0000_maskgct - - spoof
+MASKGCT 4446-2273-0000_maskgct - - spoof
+MASKGCT 4446-2275-0016_maskgct - - spoof
+MASKGCT 4446-2273-0003_maskgct - - spoof
+MASKGCT 4446-2275-0012_maskgct - - spoof
+MASKGCT 4446-2273-0008_maskgct - - spoof
+MASKGCT 4446-2271-0018_maskgct - - spoof
+MASKGCT 4446-2273-0024_maskgct - - spoof
+MASKGCT 4446-2271-0020_maskgct - - spoof
+MASKGCT 4446-2275-0001_maskgct - - spoof
+MASKGCT 4446-2275-0021_maskgct - - spoof
+MASKGCT 4446-2271-0008_maskgct - - spoof
+MASKGCT 4446-2275-0029_maskgct - - spoof
+MASKGCT 4446-2275-0035_maskgct - - spoof
+MASKGCT 4446-2273-0005_maskgct - - spoof
+MASKGCT 4446-2273-0004_maskgct - - spoof
+MASKGCT 4446-2273-0016_maskgct - - spoof
+MASKGCT 4446-2275-0007_maskgct - - spoof
+MASKGCT 4446-2275-0005_maskgct - - spoof
+MASKGCT 4446-2271-0009_maskgct - - spoof
+MASKGCT 4446-2275-0042_maskgct - - spoof
+MASKGCT 4077-13754-0009_maskgct - - spoof
+MASKGCT 4077-13751-0010_maskgct - - spoof
+MASKGCT 4077-13751-0002_maskgct - - spoof
+MASKGCT 4077-13751-0000_maskgct - - spoof
+MASKGCT 4077-13754-0000_maskgct - - spoof
+MASKGCT 4507-16021-0054_maskgct - - spoof
+MASKGCT 4507-16021-0035_maskgct - - spoof
+MASKGCT 4507-16021-0025_maskgct - - spoof
+MASKGCT 4507-16021-0051_maskgct - - spoof
+MASKGCT 4507-16021-0057_maskgct - - spoof
+MASKGCT 4507-16021-0056_maskgct - - spoof
+MASKGCT 4507-16021-0045_maskgct - - spoof
+MASKGCT 4507-16021-0052_maskgct - - spoof
+MASKGCT 4507-16021-0059_maskgct - - spoof
+MASKGCT 4507-16021-0046_maskgct - - spoof
+MASKGCT 4507-16021-0055_maskgct - - spoof
+MASKGCT 121-127105-0012_maskgct - - spoof
+MASKGCT 121-127105-0005_maskgct - - spoof
+MASKGCT 121-127105-0022_maskgct - - spoof
+MASKGCT 121-121726-0010_maskgct - - spoof
+MASKGCT 121-123859-0004_maskgct - - spoof
+MASKGCT 121-127105-0007_maskgct - - spoof
+MASKGCT 121-127105-0036_maskgct - - spoof
+MASKGCT 121-127105-0029_maskgct - - spoof
+MASKGCT 121-121726-0007_maskgct - - spoof
+MASKGCT 121-121726-0011_maskgct - - spoof
+MASKGCT 121-127105-0000_maskgct - - spoof
+MASKGCT 121-121726-0009_maskgct - - spoof
+MASKGCT 121-121726-0000_maskgct - - spoof
+MASKGCT 121-127105-0006_maskgct - - spoof
+MASKGCT 6930-76324-0020_maskgct - - spoof
+MASKGCT 6930-76324-0014_maskgct - - spoof
+MASKGCT 6930-81414-0011_maskgct - - spoof
+MASKGCT 6930-76324-0008_maskgct - - spoof
+MASKGCT 6930-76324-0027_maskgct - - spoof
+MASKGCT 6930-76324-0006_maskgct - - spoof
+MASKGCT 6930-76324-0012_maskgct - - spoof
+MASKGCT 6930-76324-0028_maskgct - - spoof
+MASKGCT 6930-76324-0002_maskgct - - spoof
+MASKGCT 6930-81414-0007_maskgct - - spoof
+MASKGCT 6930-76324-0004_maskgct - - spoof
+MASKGCT 6930-76324-0013_maskgct - - spoof
+MASKGCT 6930-76324-0017_maskgct - - spoof
+MASKGCT 6930-76324-0025_maskgct - - spoof
+MASKGCT 6930-76324-0011_maskgct - - spoof
+MASKGCT 6930-81414-0020_maskgct - - spoof
+MASKGCT 6930-81414-0008_maskgct - - spoof
+MASKGCT 6930-76324-0024_maskgct - - spoof
+MASKGCT 7021-85628-0020_maskgct - - spoof
+MASKGCT 7021-79759-0002_maskgct - - spoof
+MASKGCT 7021-85628-0021_maskgct - - spoof
+MASKGCT 7021-85628-0002_maskgct - - spoof
+MASKGCT 7021-85628-0016_maskgct - - spoof
+MASKGCT 7021-79740-0001_maskgct - - spoof
+MASKGCT 7021-85628-0012_maskgct - - spoof
+MASKGCT 7021-79759-0000_maskgct - - spoof
+MASKGCT 7021-85628-0009_maskgct - - spoof
+MASKGCT 7021-79740-0002_maskgct - - spoof
+MASKGCT 7021-79740-0006_maskgct - - spoof
+MASKGCT 7021-85628-0010_maskgct - - spoof
+MASKGCT 7021-79740-0003_maskgct - - spoof
+MASKGCT 7127-75947-0016_maskgct - - spoof
+MASKGCT 7127-75947-0025_maskgct - - spoof
+MASKGCT 7127-75946-0020_maskgct - - spoof
+MASKGCT 7127-75946-0006_maskgct - - spoof
+MASKGCT 7127-75947-0037_maskgct - - spoof
+MASKGCT 7127-75946-0009_maskgct - - spoof
+MASKGCT 7127-75946-0015_maskgct - - spoof
+MASKGCT 7127-75947-0027_maskgct - - spoof
+MASKGCT 7127-75947-0007_maskgct - - spoof
+MASKGCT 7127-75947-0024_maskgct - - spoof
+MASKGCT 7127-75946-0003_maskgct - - spoof
+MASKGCT 7127-75946-0013_maskgct - - spoof
+MASKGCT 7127-75947-0013_maskgct - - spoof
+MASKGCT 7127-75946-0024_maskgct - - spoof
+MASKGCT 7127-75947-0028_maskgct - - spoof
+MASKGCT 7127-75947-0033_maskgct - - spoof
+MASKGCT 7127-75946-0018_maskgct - - spoof
+MASKGCT 672-122797-0015_maskgct - - spoof
+MASKGCT 672-122797-0036_maskgct - - spoof
+MASKGCT 672-122797-0061_maskgct - - spoof
+MASKGCT 672-122797-0058_maskgct - - spoof
+MASKGCT 672-122797-0038_maskgct - - spoof
+MASKGCT 672-122797-0073_maskgct - - spoof
+MASKGCT 672-122797-0019_maskgct - - spoof
+MASKGCT 672-122797-0013_maskgct - - spoof
+MASKGCT 672-122797-0016_maskgct - - spoof
+MASKGCT 672-122797-0032_maskgct - - spoof
+MASKGCT 672-122797-0068_maskgct - - spoof
+MASKGCT 672-122797-0056_maskgct - - spoof
+MASKGCT 672-122797-0018_maskgct - - spoof
+MASKGCT 672-122797-0066_maskgct - - spoof
+MASKGCT 672-122797-0007_maskgct - - spoof
+MASKGCT 672-122797-0070_maskgct - - spoof
+MASKGCT 672-122797-0046_maskgct - - spoof
+MASKGCT 672-122797-0071_maskgct - - spoof
+MASKGCT 672-122797-0020_maskgct - - spoof
+MASKGCT 2300-131720-0038_maskgct - - spoof
+MASKGCT 2300-131720-0029_maskgct - - spoof
+MASKGCT 2300-131720-0030_maskgct - - spoof
+MASKGCT 2300-131720-0015_maskgct - - spoof
+MASKGCT 2300-131720-0034_maskgct - - spoof
+MASKGCT 2300-131720-0040_maskgct - - spoof
+MASKGCT 2300-131720-0027_maskgct - - spoof
+MASKGCT 2300-131720-0037_maskgct - - spoof
+MASKGCT 4992-23283-0003_maskgct - - spoof
+MASKGCT 4992-41797-0002_maskgct - - spoof
+MASKGCT 4992-41797-0021_maskgct - - spoof
+MASKGCT 4992-41797-0015_maskgct - - spoof
+MASKGCT 4992-41797-0018_maskgct - - spoof
+MASKGCT 4992-41797-0020_maskgct - - spoof
+MASKGCT 4992-41797-0008_maskgct - - spoof
+MASKGCT 4992-41797-0010_maskgct - - spoof
+MASKGCT 4992-23283-0004_maskgct - - spoof
+MASKGCT 4992-41797-0007_maskgct - - spoof
+MASKGCT 4992-41806-0011_maskgct - - spoof
+MASKGCT 4992-23283-0008_maskgct - - spoof
+MASKGCT 4992-23283-0013_maskgct - - spoof
+MASKGCT 4992-41797-0000_maskgct - - spoof
+MASKGCT 4992-23283-0000_maskgct - - spoof
+MASKGCT 4992-23283-0007_maskgct - - spoof
+MASKGCT 4992-41806-0001_maskgct - - spoof
+MASKGCT 4992-41797-0004_maskgct - - spoof
+MASKGCT 1284-1180-0006_maskgct - - spoof
+MASKGCT 1284-1180-0023_maskgct - - spoof
+MASKGCT 1284-1180-0001_maskgct - - spoof
+MASKGCT 1284-1181-0009_maskgct - - spoof
+MASKGCT 1284-1180-0024_maskgct - - spoof
+MASKGCT 1284-1180-0004_maskgct - - spoof
+MASKGCT 1284-1180-0031_maskgct - - spoof
+MASKGCT 1284-1180-0028_maskgct - - spoof
+MASKGCT 1284-1180-0010_maskgct - - spoof
+MASKGCT 1284-1180-0026_maskgct - - spoof
+MASKGCT 1284-1180-0000_maskgct - - spoof
+MASKGCT 1284-1180-0021_maskgct - - spoof
+MASKGCT 1284-1180-0029_maskgct - - spoof
+MASKGCT 1284-1181-0015_maskgct - - spoof
+MASKGCT 1284-1181-0007_maskgct - - spoof
+MASKGCT 1284-134647-0000_maskgct - - spoof
+MASKGCT 1284-1180-0025_maskgct - - spoof
+MASKGCT 1284-1180-0015_maskgct - - spoof
+MASKGCT 8455-210777-0031_maskgct - - spoof
+MASKGCT 8455-210777-0006_maskgct - - spoof
+MASKGCT 8455-210777-0044_maskgct - - spoof
+MASKGCT 8455-210777-0023_maskgct - - spoof
+MASKGCT 8455-210777-0069_maskgct - - spoof
+MASKGCT 8455-210777-0015_maskgct - - spoof
+MASKGCT 8455-210777-0034_maskgct - - spoof
+MASKGCT 8455-210777-0049_maskgct - - spoof
+MASKGCT 8455-210777-0017_maskgct - - spoof
+MASKGCT 8455-210777-0052_maskgct - - spoof
+MASKGCT 8455-210777-0040_maskgct - - spoof
+MASKGCT 8455-210777-0011_maskgct - - spoof
+MASKGCT 8455-210777-0039_maskgct - - spoof
+MASKGCT 8455-210777-0024_maskgct - - spoof
+MASKGCT 8455-210777-0014_maskgct - - spoof
+MASKGCT 8455-210777-0009_maskgct - - spoof
+MASKGCT 8455-210777-0037_maskgct - - spoof
+MASKGCT 8455-210777-0000_maskgct - - spoof
+MASKGCT 6829-68771-0004_maskgct - - spoof
+MASKGCT 6829-68771-0030_maskgct - - spoof
+MASKGCT 6829-68769-0015_maskgct - - spoof
+MASKGCT 6829-68769-0040_maskgct - - spoof
+MASKGCT 6829-68771-0015_maskgct - - spoof
+MASKGCT 6829-68769-0021_maskgct - - spoof
+MASKGCT 6829-68771-0011_maskgct - - spoof
+MASKGCT 6829-68771-0032_maskgct - - spoof
+MASKGCT 6829-68771-0033_maskgct - - spoof
+MASKGCT 6829-68771-0019_maskgct - - spoof
+MASKGCT 6829-68771-0036_maskgct - - spoof
+MASKGCT 6829-68771-0010_maskgct - - spoof
+MASKGCT 6829-68769-0004_maskgct - - spoof
+MASKGCT 6829-68771-0008_maskgct - - spoof
+MASKGCT 6829-68769-0034_maskgct - - spoof
+MASKGCT 6829-68769-0009_maskgct - - spoof
+MASKGCT 6829-68769-0032_maskgct - - spoof
+MASKGCT 6829-68769-0020_maskgct - - spoof
+MASKGCT 6829-68769-0005_maskgct - - spoof
+MASKGCT 6829-68771-0018_maskgct - - spoof
+MASKGCT 6829-68769-0025_maskgct - - spoof
+MASKGCT 6829-68769-0026_maskgct - - spoof
+MASKGCT 6829-68769-0023_maskgct - - spoof
+MASKGCT 6829-68769-0003_maskgct - - spoof
+MASKGCT 6829-68769-0049_maskgct - - spoof
+MASKGCT 6829-68771-0035_maskgct - - spoof
+MASKGCT 1221-135767-0014_maskgct - - spoof
+MASKGCT 1221-135767-0010_maskgct - - spoof
+MASKGCT 1221-135766-0007_maskgct - - spoof
+MASKGCT 1221-135766-0004_maskgct - - spoof
+MASKGCT 61-70970-0011_maskgct - - spoof
+MASKGCT 61-70970-0040_maskgct - - spoof
+MASKGCT 61-70968-0011_maskgct - - spoof
+MASKGCT 61-70968-0025_maskgct - - spoof
+MASKGCT 61-70970-0034_maskgct - - spoof
+MASKGCT 61-70968-0043_maskgct - - spoof
+MASKGCT 61-70970-0000_maskgct - - spoof
+MASKGCT 61-70968-0034_maskgct - - spoof
+MASKGCT 61-70968-0053_maskgct - - spoof
+MASKGCT 61-70968-0026_maskgct - - spoof
+MASKGCT 61-70970-0024_maskgct - - spoof
+MASKGCT 61-70968-0032_maskgct - - spoof
+MASKGCT 61-70970-0013_maskgct - - spoof
+MASKGCT 61-70970-0016_maskgct - - spoof
+MASKGCT 61-70968-0061_maskgct - - spoof
+MASKGCT 61-70970-0026_maskgct - - spoof
+MASKGCT 61-70968-0057_maskgct - - spoof
+MASKGCT 61-70970-0036_maskgct - - spoof
+MASKGCT 61-70968-0022_maskgct - - spoof
+MASKGCT 61-70968-0023_maskgct - - spoof
+MASKGCT 61-70968-0049_maskgct - - spoof
+MASKGCT 61-70970-0018_maskgct - - spoof
+MASKGCT 61-70970-0027_maskgct - - spoof
+MASKGCT 61-70968-0015_maskgct - - spoof
+MASKGCT 61-70968-0009_maskgct - - spoof
+MASKGCT 61-70968-0003_maskgct - - spoof
+MASKGCT 61-70970-0025_maskgct - - spoof
+MASKGCT 61-70970-0002_maskgct - - spoof
+MASKGCT 61-70970-0031_maskgct - - spoof
+MASKGCT 1320-122617-0020_maskgct - - spoof
+MASKGCT 1320-122617-0024_maskgct - - spoof
+MASKGCT 1320-122617-0019_maskgct - - spoof
+MASKGCT 1320-122617-0006_maskgct - - spoof
+MASKGCT 1320-122617-0031_maskgct - - spoof
+MASKGCT 1320-122617-0039_maskgct - - spoof
+MASKGCT 1320-122617-0015_maskgct - - spoof
+MASKGCT 1320-122612-0007_maskgct - - spoof
+MASKGCT 1320-122617-0008_maskgct - - spoof
+MASKGCT 1320-122617-0010_maskgct - - spoof
+MASKGCT 1320-122617-0011_maskgct - - spoof
+MASKGCT 1320-122617-0003_maskgct - - spoof
+MASKGCT 1320-122617-0017_maskgct - - spoof
+MASKGCT 1320-122612-0013_maskgct - - spoof
+MASKGCT 1320-122612-0003_maskgct - - spoof
+MASKGCT 1320-122617-0034_maskgct - - spoof
+MASKGCT 1320-122612-0001_maskgct - - spoof
+MASKGCT 1320-122617-0021_maskgct - - spoof
+MASKGCT 1320-122617-0026_maskgct - - spoof
+MASKGCT 8555-284449-0003_maskgct - - spoof
+MASKGCT 8555-284449-0013_maskgct - - spoof
+MASKGCT 8555-284447-0003_maskgct - - spoof
+MASKGCT 8555-284447-0007_maskgct - - spoof
+MASKGCT 8555-292519-0012_maskgct - - spoof
+MASKGCT 8555-284447-0004_maskgct - - spoof
+MASKGCT 8555-284449-0007_maskgct - - spoof
+MASKGCT 8555-284449-0008_maskgct - - spoof
+MASKGCT 8555-292519-0013_maskgct - - spoof
+MASKGCT 8555-284447-0000_maskgct - - spoof
+MASKGCT 8555-284449-0016_maskgct - - spoof
+MASKGCT 8555-284447-0023_maskgct - - spoof
+MASKGCT 8555-284447-0002_maskgct - - spoof
+MASKGCT 8555-284447-0001_maskgct - - spoof
+MASKGCT 8555-284449-0018_maskgct - - spoof
+MASKGCT 8555-284449-0019_maskgct - - spoof
+MASKGCT 8224-274384-0005_maskgct - - spoof
+MASKGCT 8224-274384-0013_maskgct - - spoof
+MASKGCT 8224-274384-0007_maskgct - - spoof
+MASKGCT 8224-274384-0006_maskgct - - spoof
+MASKGCT 8230-279154-0005_maskgct - - spoof
+MASKGCT 8230-279154-0021_maskgct - - spoof
+MASKGCT 8230-279154-0006_maskgct - - spoof
+MASKGCT 8230-279154-0030_maskgct - - spoof
+MASKGCT 8230-279154-0035_maskgct - - spoof
+MASKGCT 8230-279154-0023_maskgct - - spoof
+MASKGCT 8230-279154-0020_maskgct - - spoof
+MASKGCT 8230-279154-0014_maskgct - - spoof
+MASKGCT 8230-279154-0024_maskgct - - spoof
+MASKGCT 3729-6852-0037_maskgct - - spoof
+MASKGCT 3729-6852-0038_maskgct - - spoof
+MASKGCT 3729-6852-0043_maskgct - - spoof
+MASKGCT 3729-6852-0011_maskgct - - spoof
+MASKGCT 3729-6852-0016_maskgct - - spoof
+MASKGCT 3729-6852-0018_maskgct - - spoof
+MASKGCT 3729-6852-0026_maskgct - - spoof
+MASKGCT 3729-6852-0023_maskgct - - spoof
+MASKGCT 1188-133604-0043_maskgct - - spoof
+MASKGCT 1188-133604-0001_maskgct - - spoof
+MASKGCT 1188-133604-0022_maskgct - - spoof
+MASKGCT 1188-133604-0036_maskgct - - spoof
+MASKGCT 1188-133604-0039_maskgct - - spoof
+MASKGCT 1188-133604-0033_maskgct - - spoof
+MASKGCT 1188-133604-0017_maskgct - - spoof
+MASKGCT 3570-5694-0022_maskgct - - spoof
+MASKGCT 3570-5694-0013_maskgct - - spoof
+MASKGCT 3570-5696-0009_maskgct - - spoof
+MASKGCT 3570-5694-0018_maskgct - - spoof
+MASKGCT 3570-5696-0002_maskgct - - spoof
+MASKGCT 3570-5695-0002_maskgct - - spoof
+MASKGCT 3570-5694-0005_maskgct - - spoof
+MASKGCT 3570-5695-0009_maskgct - - spoof
+MASKGCT 3570-5696-0007_maskgct - - spoof
+MASKGCT 3570-5695-0015_maskgct - - spoof
+MASKGCT 3570-5696-0006_maskgct - - spoof
+MASKGCT 3570-5696-0008_maskgct - - spoof
+MASKGCT 3570-5694-0008_maskgct - - spoof
+MASKGCT 3570-5695-0011_maskgct - - spoof
+MASKGCT 8463-294828-0020_maskgct - - spoof
+MASKGCT 8463-294828-0012_maskgct - - spoof
+MASKGCT 8463-294828-0036_maskgct - - spoof
+MASKGCT 8463-294828-0015_maskgct - - spoof
+MASKGCT 8463-294828-0033_maskgct - - spoof
+MASKGCT 8463-294828-0023_maskgct - - spoof
+MASKGCT 8463-294828-0003_maskgct - - spoof
+MASKGCT 8463-294828-0001_maskgct - - spoof
+MASKGCT 8463-287645-0013_maskgct - - spoof
+MASKGCT 8463-294825-0003_maskgct - - spoof
+MASKGCT 8463-294828-0017_maskgct - - spoof
+MASKGCT 8463-294825-0001_maskgct - - spoof
+MASKGCT 8463-294828-0014_maskgct - - spoof
+MASKGCT 8463-287645-0000_maskgct - - spoof
+MASKGCT 8463-287645-0006_maskgct - - spoof
+MASKGCT 8463-287645-0010_maskgct - - spoof
+MASKGCT 908-31957-0014_maskgct - - spoof
+MASKGCT 908-31957-0007_maskgct - - spoof
+MASKGCT 908-157963-0013_maskgct - - spoof
+MASKGCT 908-31957-0023_maskgct - - spoof
+MASKGCT 908-157963-0016_maskgct - - spoof
+MASKGCT 908-157963-0018_maskgct - - spoof
+MASKGCT 908-31957-0006_maskgct - - spoof
+MASKGCT 908-157963-0009_maskgct - - spoof
+MASKGCT 908-157963-0022_maskgct - - spoof
+MASKGCT 908-157963-0006_maskgct - - spoof
+MASKGCT 908-31957-0005_maskgct - - spoof
+MASKGCT 908-157963-0026_maskgct - - spoof
+MASKGCT 908-31957-0019_maskgct - - spoof
+MASKGCT 908-31957-0020_maskgct - - spoof
+MASKGCT 908-157963-0005_maskgct - - spoof
+MASKGCT 908-157963-0014_maskgct - - spoof
+MASKGCT 1995-1826-0000 - - bonafide
+MASKGCT 1995-1837-0025 - - bonafide
+MASKGCT 1995-1837-0019 - - bonafide
+MASKGCT 1995-1836-0011 - - bonafide
+MASKGCT 1995-1836-0006 - - bonafide
+MASKGCT 1995-1837-0004 - - bonafide
+MASKGCT 1995-1837-0027 - - bonafide
+MASKGCT 1995-1837-0029 - - bonafide
+MASKGCT 1995-1836-0003 - - bonafide
+MASKGCT 1995-1826-0017 - - bonafide
+MASKGCT 1995-1826-0022 - - bonafide
+MASKGCT 1995-1826-0020 - - bonafide
+MASKGCT 1995-1836-0008 - - bonafide
+MASKGCT 1995-1826-0012 - - bonafide
+MASKGCT 1995-1826-0007 - - bonafide
+MASKGCT 1995-1837-0001 - - bonafide
+MASKGCT 1995-1837-0012 - - bonafide
+MASKGCT 1995-1837-0024 - - bonafide
+MASKGCT 1580-141083-0024 - - bonafide
+MASKGCT 1580-141084-0041 - - bonafide
+MASKGCT 1580-141084-0002 - - bonafide
+MASKGCT 1580-141083-0033 - - bonafide
+MASKGCT 1580-141084-0029 - - bonafide
+MASKGCT 1580-141084-0016 - - bonafide
+MASKGCT 1580-141083-0013 - - bonafide
+MASKGCT 1580-141083-0003 - - bonafide
+MASKGCT 1580-141084-0031 - - bonafide
+MASKGCT 1580-141084-0040 - - bonafide
+MASKGCT 1580-141083-0026 - - bonafide
+MASKGCT 1580-141084-0024 - - bonafide
+MASKGCT 1580-141084-0023 - - bonafide
+MASKGCT 1580-141083-0004 - - bonafide
+MASKGCT 1580-141083-0037 - - bonafide
+MASKGCT 1580-141084-0039 - - bonafide
+MASKGCT 1580-141084-0032 - - bonafide
+MASKGCT 1580-141083-0038 - - bonafide
+MASKGCT 1580-141084-0033 - - bonafide
+MASKGCT 1580-141083-0034 - - bonafide
+MASKGCT 1580-141084-0009 - - bonafide
+MASKGCT 1580-141084-0008 - - bonafide
+MASKGCT 1580-141083-0032 - - bonafide
+MASKGCT 1580-141083-0000 - - bonafide
+MASKGCT 1580-141083-0015 - - bonafide
+MASKGCT 237-126133-0010 - - bonafide
+MASKGCT 237-126133-0007 - - bonafide
+MASKGCT 237-126133-0024 - - bonafide
+MASKGCT 237-126133-0019 - - bonafide
+MASKGCT 237-126133-0018 - - bonafide
+MASKGCT 237-126133-0017 - - bonafide
+MASKGCT 237-126133-0015 - - bonafide
+MASKGCT 237-126133-0005 - - bonafide
+MASKGCT 237-126133-0022 - - bonafide
+MASKGCT 260-123440-0010 - - bonafide
+MASKGCT 260-123440-0015 - - bonafide
+MASKGCT 260-123440-0011 - - bonafide
+MASKGCT 260-123286-0026 - - bonafide
+MASKGCT 260-123288-0004 - - bonafide
+MASKGCT 260-123286-0011 - - bonafide
+MASKGCT 260-123286-0000 - - bonafide
+MASKGCT 260-123288-0017 - - bonafide
+MASKGCT 260-123286-0031 - - bonafide
+MASKGCT 260-123288-0008 - - bonafide
+MASKGCT 260-123440-0020 - - bonafide
+MASKGCT 260-123286-0023 - - bonafide
+MASKGCT 260-123288-0003 - - bonafide
+MASKGCT 260-123286-0030 - - bonafide
+MASKGCT 260-123286-0006 - - bonafide
+MASKGCT 260-123286-0013 - - bonafide
+MASKGCT 260-123286-0016 - - bonafide
+MASKGCT 260-123286-0007 - - bonafide
+MASKGCT 260-123286-0018 - - bonafide
+MASKGCT 7176-88083-0024 - - bonafide
+MASKGCT 7176-88083-0023 - - bonafide
+MASKGCT 7176-88083-0000 - - bonafide
+MASKGCT 7176-88083-0026 - - bonafide
+MASKGCT 7176-92135-0044 - - bonafide
+MASKGCT 7176-92135-0022 - - bonafide
+MASKGCT 7176-92135-0009 - - bonafide
+MASKGCT 7176-92135-0018 - - bonafide
+MASKGCT 7176-88083-0002 - - bonafide
+MASKGCT 7176-92135-0001 - - bonafide
+MASKGCT 7176-88083-0003 - - bonafide
+MASKGCT 7176-92135-0024 - - bonafide
+MASKGCT 7176-88083-0020 - - bonafide
+MASKGCT 7176-88083-0022 - - bonafide
+MASKGCT 3575-170457-0048 - - bonafide
+MASKGCT 3575-170457-0013 - - bonafide
+MASKGCT 3575-170457-0006 - - bonafide
+MASKGCT 3575-170457-0022 - - bonafide
+MASKGCT 3575-170457-0031 - - bonafide
+MASKGCT 3575-170457-0023 - - bonafide
+MASKGCT 3575-170457-0020 - - bonafide
+MASKGCT 3575-170457-0029 - - bonafide
+MASKGCT 3575-170457-0010 - - bonafide
+MASKGCT 3575-170457-0030 - - bonafide
+MASKGCT 3575-170457-0025 - - bonafide
+MASKGCT 3575-170457-0021 - - bonafide
+MASKGCT 3575-170457-0012 - - bonafide
+MASKGCT 3575-170457-0033 - - bonafide
+MASKGCT 3575-170457-0003 - - bonafide
+MASKGCT 3575-170457-0005 - - bonafide
+MASKGCT 5683-32879-0003 - - bonafide
+MASKGCT 5683-32879-0009 - - bonafide
+MASKGCT 5683-32866-0002 - - bonafide
+MASKGCT 5683-32879-0018 - - bonafide
+MASKGCT 5683-32865-0013 - - bonafide
+MASKGCT 5683-32866-0004 - - bonafide
+MASKGCT 5683-32879-0011 - - bonafide
+MASKGCT 5683-32879-0005 - - bonafide
+MASKGCT 5683-32865-0015 - - bonafide
+MASKGCT 5683-32879-0012 - - bonafide
+MASKGCT 5683-32879-0019 - - bonafide
+MASKGCT 5683-32866-0017 - - bonafide
+MASKGCT 5683-32866-0018 - - bonafide
+MASKGCT 5683-32866-0007 - - bonafide
+MASKGCT 5683-32866-0012 - - bonafide
+MASKGCT 5683-32865-0004 - - bonafide
+MASKGCT 5683-32865-0008 - - bonafide
+MASKGCT 5683-32865-0007 - - bonafide
+MASKGCT 5683-32866-0024 - - bonafide
+MASKGCT 5683-32879-0000 - - bonafide
+MASKGCT 2830-3980-0041 - - bonafide
+MASKGCT 2830-3980-0038 - - bonafide
+MASKGCT 2830-3979-0008 - - bonafide
+MASKGCT 2830-3980-0025 - - bonafide
+MASKGCT 2830-3979-0006 - - bonafide
+MASKGCT 2830-3980-0008 - - bonafide
+MASKGCT 2830-3980-0062 - - bonafide
+MASKGCT 2830-3980-0076 - - bonafide
+MASKGCT 2830-3980-0067 - - bonafide
+MASKGCT 2830-3980-0075 - - bonafide
+MASKGCT 2830-3980-0030 - - bonafide
+MASKGCT 2830-3980-0063 - - bonafide
+MASKGCT 2830-3980-0010 - - bonafide
+MASKGCT 2830-3980-0011 - - bonafide
+MASKGCT 2830-3980-0056 - - bonafide
+MASKGCT 2830-3980-0066 - - bonafide
+MASKGCT 2830-3980-0006 - - bonafide
+MASKGCT 2830-3980-0053 - - bonafide
+MASKGCT 2830-3980-0055 - - bonafide
+MASKGCT 2830-3980-0052 - - bonafide
+MASKGCT 2830-3980-0069 - - bonafide
+MASKGCT 2830-3979-0009 - - bonafide
+MASKGCT 2830-3979-0000 - - bonafide
+MASKGCT 2961-961-0013 - - bonafide
+MASKGCT 2961-960-0016 - - bonafide
+MASKGCT 2961-961-0007 - - bonafide
+MASKGCT 2961-960-0001 - - bonafide
+MASKGCT 2961-961-0003 - - bonafide
+MASKGCT 2961-961-0020 - - bonafide
+MASKGCT 2961-961-0021 - - bonafide
+MASKGCT 2961-961-0016 - - bonafide
+MASKGCT 2961-960-0017 - - bonafide
+MASKGCT 2961-961-0017 - - bonafide
+MASKGCT 2961-960-0004 - - bonafide
+MASKGCT 2961-960-0022 - - bonafide
+MASKGCT 2961-960-0015 - - bonafide
+MASKGCT 2961-960-0007 - - bonafide
+MASKGCT 5105-28240-0017 - - bonafide
+MASKGCT 5105-28241-0000 - - bonafide
+MASKGCT 5105-28233-0006 - - bonafide
+MASKGCT 5105-28240-0002 - - bonafide
+MASKGCT 5105-28241-0009 - - bonafide
+MASKGCT 5105-28233-0000 - - bonafide
+MASKGCT 5105-28241-0013 - - bonafide
+MASKGCT 5105-28241-0008 - - bonafide
+MASKGCT 5105-28240-0015 - - bonafide
+MASKGCT 5105-28241-0005 - - bonafide
+MASKGCT 5105-28240-0004 - - bonafide
+MASKGCT 5105-28240-0011 - - bonafide
+MASKGCT 5105-28233-0002 - - bonafide
+MASKGCT 5142-36377-0004 - - bonafide
+MASKGCT 5142-33396-0024 - - bonafide
+MASKGCT 5142-36377-0013 - - bonafide
+MASKGCT 5142-36377-0015 - - bonafide
+MASKGCT 5142-33396-0038 - - bonafide
+MASKGCT 5142-36377-0023 - - bonafide
+MASKGCT 5142-33396-0033 - - bonafide
+MASKGCT 5142-33396-0068 - - bonafide
+MASKGCT 5142-33396-0012 - - bonafide
+MASKGCT 5142-33396-0054 - - bonafide
+MASKGCT 5142-33396-0001 - - bonafide
+MASKGCT 5142-36377-0010 - - bonafide
+MASKGCT 5142-33396-0022 - - bonafide
+MASKGCT 5142-33396-0006 - - bonafide
+MASKGCT 5142-36377-0017 - - bonafide
+MASKGCT 5142-33396-0065 - - bonafide
+MASKGCT 5142-33396-0067 - - bonafide
+MASKGCT 5142-33396-0015 - - bonafide
+MASKGCT 5142-36377-0005 - - bonafide
+MASKGCT 5142-36377-0007 - - bonafide
+MASKGCT 4970-29095-0027 - - bonafide
+MASKGCT 4970-29095-0035 - - bonafide
+MASKGCT 4970-29093-0007 - - bonafide
+MASKGCT 4970-29095-0022 - - bonafide
+MASKGCT 4970-29095-0030 - - bonafide
+MASKGCT 4970-29095-0012 - - bonafide
+MASKGCT 4970-29095-0016 - - bonafide
+MASKGCT 4970-29095-0005 - - bonafide
+MASKGCT 4970-29093-0009 - - bonafide
+MASKGCT 4970-29095-0009 - - bonafide
+MASKGCT 4970-29095-0034 - - bonafide
+MASKGCT 4970-29093-0023 - - bonafide
+MASKGCT 4970-29093-0019 - - bonafide
+MASKGCT 4970-29093-0018 - - bonafide
+MASKGCT 5639-40744-0024 - - bonafide
+MASKGCT 5639-40744-0020 - - bonafide
+MASKGCT 5639-40744-0005 - - bonafide
+MASKGCT 5639-40744-0033 - - bonafide
+MASKGCT 5639-40744-0007 - - bonafide
+MASKGCT 5639-40744-0012 - - bonafide
+MASKGCT 5639-40744-0002 - - bonafide
+MASKGCT 5639-40744-0016 - - bonafide
+MASKGCT 2094-142345-0023 - - bonafide
+MASKGCT 2094-142345-0052 - - bonafide
+MASKGCT 2094-142345-0049 - - bonafide
+MASKGCT 2094-142345-0027 - - bonafide
+MASKGCT 2094-142345-0005 - - bonafide
+MASKGCT 2094-142345-0051 - - bonafide
+MASKGCT 7729-102255-0033 - - bonafide
+MASKGCT 7729-102255-0036 - - bonafide
+MASKGCT 7729-102255-0045 - - bonafide
+MASKGCT 7729-102255-0031 - - bonafide
+MASKGCT 7729-102255-0029 - - bonafide
+MASKGCT 7729-102255-0005 - - bonafide
+MASKGCT 7729-102255-0030 - - bonafide
+MASKGCT 7729-102255-0014 - - bonafide
+MASKGCT 4446-2273-0021 - - bonafide
+MASKGCT 4446-2275-0000 - - bonafide
+MASKGCT 4446-2273-0000 - - bonafide
+MASKGCT 4446-2275-0016 - - bonafide
+MASKGCT 4446-2273-0003 - - bonafide
+MASKGCT 4446-2275-0012 - - bonafide
+MASKGCT 4446-2273-0008 - - bonafide
+MASKGCT 4446-2271-0018 - - bonafide
+MASKGCT 4446-2273-0024 - - bonafide
+MASKGCT 4446-2271-0020 - - bonafide
+MASKGCT 4446-2275-0001 - - bonafide
+MASKGCT 4446-2275-0021 - - bonafide
+MASKGCT 4446-2271-0008 - - bonafide
+MASKGCT 4446-2275-0029 - - bonafide
+MASKGCT 4446-2275-0035 - - bonafide
+MASKGCT 4446-2273-0005 - - bonafide
+MASKGCT 4446-2273-0004 - - bonafide
+MASKGCT 4446-2273-0016 - - bonafide
+MASKGCT 4446-2275-0007 - - bonafide
+MASKGCT 4446-2275-0005 - - bonafide
+MASKGCT 4446-2271-0009 - - bonafide
+MASKGCT 4446-2275-0042 - - bonafide
+MASKGCT 4077-13754-0009 - - bonafide
+MASKGCT 4077-13751-0010 - - bonafide
+MASKGCT 4077-13751-0002 - - bonafide
+MASKGCT 4077-13751-0000 - - bonafide
+MASKGCT 4077-13754-0000 - - bonafide
+MASKGCT 4507-16021-0054 - - bonafide
+MASKGCT 4507-16021-0035 - - bonafide
+MASKGCT 4507-16021-0025 - - bonafide
+MASKGCT 4507-16021-0051 - - bonafide
+MASKGCT 4507-16021-0057 - - bonafide
+MASKGCT 4507-16021-0056 - - bonafide
+MASKGCT 4507-16021-0045 - - bonafide
+MASKGCT 4507-16021-0052 - - bonafide
+MASKGCT 4507-16021-0059 - - bonafide
+MASKGCT 4507-16021-0046 - - bonafide
+MASKGCT 4507-16021-0055 - - bonafide
+MASKGCT 121-127105-0012 - - bonafide
+MASKGCT 121-127105-0005 - - bonafide
+MASKGCT 121-127105-0022 - - bonafide
+MASKGCT 121-121726-0010 - - bonafide
+MASKGCT 121-123859-0004 - - bonafide
+MASKGCT 121-127105-0007 - - bonafide
+MASKGCT 121-127105-0036 - - bonafide
+MASKGCT 121-127105-0029 - - bonafide
+MASKGCT 121-121726-0007 - - bonafide
+MASKGCT 121-121726-0011 - - bonafide
+MASKGCT 121-127105-0000 - - bonafide
+MASKGCT 121-121726-0009 - - bonafide
+MASKGCT 121-121726-0000 - - bonafide
+MASKGCT 121-127105-0006 - - bonafide
+MASKGCT 6930-76324-0020 - - bonafide
+MASKGCT 6930-76324-0014 - - bonafide
+MASKGCT 6930-81414-0011 - - bonafide
+MASKGCT 6930-76324-0008 - - bonafide
+MASKGCT 6930-76324-0027 - - bonafide
+MASKGCT 6930-76324-0006 - - bonafide
+MASKGCT 6930-76324-0012 - - bonafide
+MASKGCT 6930-76324-0028 - - bonafide
+MASKGCT 6930-76324-0002 - - bonafide
+MASKGCT 6930-81414-0007 - - bonafide
+MASKGCT 6930-76324-0004 - - bonafide
+MASKGCT 6930-76324-0013 - - bonafide
+MASKGCT 6930-76324-0017 - - bonafide
+MASKGCT 6930-76324-0025 - - bonafide
+MASKGCT 6930-76324-0011 - - bonafide
+MASKGCT 6930-81414-0020 - - bonafide
+MASKGCT 6930-81414-0008 - - bonafide
+MASKGCT 6930-76324-0024 - - bonafide
+MASKGCT 7021-85628-0020 - - bonafide
+MASKGCT 7021-79759-0002 - - bonafide
+MASKGCT 7021-85628-0021 - - bonafide
+MASKGCT 7021-85628-0002 - - bonafide
+MASKGCT 7021-85628-0016 - - bonafide
+MASKGCT 7021-79740-0001 - - bonafide
+MASKGCT 7021-85628-0012 - - bonafide
+MASKGCT 7021-79759-0000 - - bonafide
+MASKGCT 7021-85628-0009 - - bonafide
+MASKGCT 7021-79740-0002 - - bonafide
+MASKGCT 7021-79740-0006 - - bonafide
+MASKGCT 7021-85628-0010 - - bonafide
+MASKGCT 7021-79740-0003 - - bonafide
+MASKGCT 7127-75947-0016 - - bonafide
+MASKGCT 7127-75947-0025 - - bonafide
+MASKGCT 7127-75946-0020 - - bonafide
+MASKGCT 7127-75946-0006 - - bonafide
+MASKGCT 7127-75947-0037 - - bonafide
+MASKGCT 7127-75946-0009 - - bonafide
+MASKGCT 7127-75946-0015 - - bonafide
+MASKGCT 7127-75947-0027 - - bonafide
+MASKGCT 7127-75947-0007 - - bonafide
+MASKGCT 7127-75947-0024 - - bonafide
+MASKGCT 7127-75946-0003 - - bonafide
+MASKGCT 7127-75946-0013 - - bonafide
+MASKGCT 7127-75947-0013 - - bonafide
+MASKGCT 7127-75946-0024 - - bonafide
+MASKGCT 7127-75947-0028 - - bonafide
+MASKGCT 7127-75947-0033 - - bonafide
+MASKGCT 7127-75946-0018 - - bonafide
+MASKGCT 672-122797-0015 - - bonafide
+MASKGCT 672-122797-0036 - - bonafide
+MASKGCT 672-122797-0061 - - bonafide
+MASKGCT 672-122797-0058 - - bonafide
+MASKGCT 672-122797-0038 - - bonafide
+MASKGCT 672-122797-0073 - - bonafide
+MASKGCT 672-122797-0019 - - bonafide
+MASKGCT 672-122797-0013 - - bonafide
+MASKGCT 672-122797-0016 - - bonafide
+MASKGCT 672-122797-0032 - - bonafide
+MASKGCT 672-122797-0068 - - bonafide
+MASKGCT 672-122797-0056 - - bonafide
+MASKGCT 672-122797-0018 - - bonafide
+MASKGCT 672-122797-0066 - - bonafide
+MASKGCT 672-122797-0007 - - bonafide
+MASKGCT 672-122797-0070 - - bonafide
+MASKGCT 672-122797-0046 - - bonafide
+MASKGCT 672-122797-0071 - - bonafide
+MASKGCT 672-122797-0020 - - bonafide
+MASKGCT 2300-131720-0038 - - bonafide
+MASKGCT 2300-131720-0029 - - bonafide
+MASKGCT 2300-131720-0030 - - bonafide
+MASKGCT 2300-131720-0015 - - bonafide
+MASKGCT 2300-131720-0034 - - bonafide
+MASKGCT 2300-131720-0040 - - bonafide
+MASKGCT 2300-131720-0027 - - bonafide
+MASKGCT 2300-131720-0037 - - bonafide
+MASKGCT 4992-23283-0003 - - bonafide
+MASKGCT 4992-41797-0002 - - bonafide
+MASKGCT 4992-41797-0021 - - bonafide
+MASKGCT 4992-41797-0015 - - bonafide
+MASKGCT 4992-41797-0018 - - bonafide
+MASKGCT 4992-41797-0020 - - bonafide
+MASKGCT 4992-41797-0008 - - bonafide
+MASKGCT 4992-41797-0010 - - bonafide
+MASKGCT 4992-23283-0004 - - bonafide
+MASKGCT 4992-41797-0007 - - bonafide
+MASKGCT 4992-41806-0011 - - bonafide
+MASKGCT 4992-23283-0008 - - bonafide
+MASKGCT 4992-23283-0013 - - bonafide
+MASKGCT 4992-41797-0000 - - bonafide
+MASKGCT 4992-23283-0000 - - bonafide
+MASKGCT 4992-23283-0007 - - bonafide
+MASKGCT 4992-41806-0001 - - bonafide
+MASKGCT 4992-41797-0004 - - bonafide
+MASKGCT 1284-1180-0006 - - bonafide
+MASKGCT 1284-1180-0023 - - bonafide
+MASKGCT 1284-1180-0001 - - bonafide
+MASKGCT 1284-1181-0009 - - bonafide
+MASKGCT 1284-1180-0024 - - bonafide
+MASKGCT 1284-1180-0004 - - bonafide
+MASKGCT 1284-1180-0031 - - bonafide
+MASKGCT 1284-1180-0028 - - bonafide
+MASKGCT 1284-1180-0010 - - bonafide
+MASKGCT 1284-1180-0026 - - bonafide
+MASKGCT 1284-1180-0000 - - bonafide
+MASKGCT 1284-1180-0021 - - bonafide
+MASKGCT 1284-1180-0029 - - bonafide
+MASKGCT 1284-1181-0015 - - bonafide
+MASKGCT 1284-1181-0007 - - bonafide
+MASKGCT 1284-134647-0000 - - bonafide
+MASKGCT 1284-1180-0025 - - bonafide
+MASKGCT 1284-1180-0015 - - bonafide
+MASKGCT 8455-210777-0031 - - bonafide
+MASKGCT 8455-210777-0006 - - bonafide
+MASKGCT 8455-210777-0044 - - bonafide
+MASKGCT 8455-210777-0023 - - bonafide
+MASKGCT 8455-210777-0069 - - bonafide
+MASKGCT 8455-210777-0015 - - bonafide
+MASKGCT 8455-210777-0034 - - bonafide
+MASKGCT 8455-210777-0049 - - bonafide
+MASKGCT 8455-210777-0017 - - bonafide
+MASKGCT 8455-210777-0052 - - bonafide
+MASKGCT 8455-210777-0040 - - bonafide
+MASKGCT 8455-210777-0011 - - bonafide
+MASKGCT 8455-210777-0039 - - bonafide
+MASKGCT 8455-210777-0024 - - bonafide
+MASKGCT 8455-210777-0014 - - bonafide
+MASKGCT 8455-210777-0009 - - bonafide
+MASKGCT 8455-210777-0037 - - bonafide
+MASKGCT 8455-210777-0000 - - bonafide
+MASKGCT 6829-68771-0004 - - bonafide
+MASKGCT 6829-68771-0030 - - bonafide
+MASKGCT 6829-68769-0015 - - bonafide
+MASKGCT 6829-68769-0040 - - bonafide
+MASKGCT 6829-68771-0015 - - bonafide
+MASKGCT 6829-68769-0021 - - bonafide
+MASKGCT 6829-68771-0011 - - bonafide
+MASKGCT 6829-68771-0032 - - bonafide
+MASKGCT 6829-68771-0033 - - bonafide
+MASKGCT 6829-68771-0019 - - bonafide
+MASKGCT 6829-68771-0036 - - bonafide
+MASKGCT 6829-68771-0010 - - bonafide
+MASKGCT 6829-68769-0004 - - bonafide
+MASKGCT 6829-68771-0008 - - bonafide
+MASKGCT 6829-68769-0034 - - bonafide
+MASKGCT 6829-68769-0009 - - bonafide
+MASKGCT 6829-68769-0032 - - bonafide
+MASKGCT 6829-68769-0020 - - bonafide
+MASKGCT 6829-68769-0005 - - bonafide
+MASKGCT 6829-68771-0018 - - bonafide
+MASKGCT 6829-68769-0025 - - bonafide
+MASKGCT 6829-68769-0026 - - bonafide
+MASKGCT 6829-68769-0023 - - bonafide
+MASKGCT 6829-68769-0003 - - bonafide
+MASKGCT 6829-68769-0049 - - bonafide
+MASKGCT 6829-68771-0035 - - bonafide
+MASKGCT 1221-135767-0014 - - bonafide
+MASKGCT 1221-135767-0010 - - bonafide
+MASKGCT 1221-135766-0007 - - bonafide
+MASKGCT 1221-135766-0004 - - bonafide
+MASKGCT 61-70970-0011 - - bonafide
+MASKGCT 61-70970-0040 - - bonafide
+MASKGCT 61-70968-0011 - - bonafide
+MASKGCT 61-70968-0025 - - bonafide
+MASKGCT 61-70970-0034 - - bonafide
+MASKGCT 61-70968-0043 - - bonafide
+MASKGCT 61-70970-0000 - - bonafide
+MASKGCT 61-70968-0034 - - bonafide
+MASKGCT 61-70968-0053 - - bonafide
+MASKGCT 61-70968-0026 - - bonafide
+MASKGCT 61-70970-0024 - - bonafide
+MASKGCT 61-70968-0032 - - bonafide
+MASKGCT 61-70970-0013 - - bonafide
+MASKGCT 61-70970-0016 - - bonafide
+MASKGCT 61-70968-0061 - - bonafide
+MASKGCT 61-70970-0026 - - bonafide
+MASKGCT 61-70968-0057 - - bonafide
+MASKGCT 61-70970-0036 - - bonafide
+MASKGCT 61-70968-0022 - - bonafide
+MASKGCT 61-70968-0023 - - bonafide
+MASKGCT 61-70968-0049 - - bonafide
+MASKGCT 61-70970-0018 - - bonafide
+MASKGCT 61-70970-0027 - - bonafide
+MASKGCT 61-70968-0015 - - bonafide
+MASKGCT 61-70968-0009 - - bonafide
+MASKGCT 61-70968-0003 - - bonafide
+MASKGCT 61-70970-0025 - - bonafide
+MASKGCT 61-70970-0002 - - bonafide
+MASKGCT 61-70970-0031 - - bonafide
+MASKGCT 1320-122617-0020 - - bonafide
+MASKGCT 1320-122617-0024 - - bonafide
+MASKGCT 1320-122617-0019 - - bonafide
+MASKGCT 1320-122617-0006 - - bonafide
+MASKGCT 1320-122617-0031 - - bonafide
+MASKGCT 1320-122617-0039 - - bonafide
+MASKGCT 1320-122617-0015 - - bonafide
+MASKGCT 1320-122612-0007 - - bonafide
+MASKGCT 1320-122617-0008 - - bonafide
+MASKGCT 1320-122617-0010 - - bonafide
+MASKGCT 1320-122617-0011 - - bonafide
+MASKGCT 1320-122617-0003 - - bonafide
+MASKGCT 1320-122617-0017 - - bonafide
+MASKGCT 1320-122612-0013 - - bonafide
+MASKGCT 1320-122612-0003 - - bonafide
+MASKGCT 1320-122617-0034 - - bonafide
+MASKGCT 1320-122612-0001 - - bonafide
+MASKGCT 1320-122617-0021 - - bonafide
+MASKGCT 1320-122617-0026 - - bonafide
+MASKGCT 8555-284449-0003 - - bonafide
+MASKGCT 8555-284449-0013 - - bonafide
+MASKGCT 8555-284447-0003 - - bonafide
+MASKGCT 8555-284447-0007 - - bonafide
+MASKGCT 8555-292519-0012 - - bonafide
+MASKGCT 8555-284447-0004 - - bonafide
+MASKGCT 8555-284449-0007 - - bonafide
+MASKGCT 8555-284449-0008 - - bonafide
+MASKGCT 8555-292519-0013 - - bonafide
+MASKGCT 8555-284447-0000 - - bonafide
+MASKGCT 8555-284449-0016 - - bonafide
+MASKGCT 8555-284447-0023 - - bonafide
+MASKGCT 8555-284447-0002 - - bonafide
+MASKGCT 8555-284447-0001 - - bonafide
+MASKGCT 8555-284449-0018 - - bonafide
+MASKGCT 8555-284449-0019 - - bonafide
+MASKGCT 8224-274384-0005 - - bonafide
+MASKGCT 8224-274384-0013 - - bonafide
+MASKGCT 8224-274384-0007 - - bonafide
+MASKGCT 8224-274384-0006 - - bonafide
+MASKGCT 8230-279154-0005 - - bonafide
+MASKGCT 8230-279154-0021 - - bonafide
+MASKGCT 8230-279154-0006 - - bonafide
+MASKGCT 8230-279154-0030 - - bonafide
+MASKGCT 8230-279154-0035 - - bonafide
+MASKGCT 8230-279154-0023 - - bonafide
+MASKGCT 8230-279154-0020 - - bonafide
+MASKGCT 8230-279154-0014 - - bonafide
+MASKGCT 8230-279154-0024 - - bonafide
+MASKGCT 3729-6852-0037 - - bonafide
+MASKGCT 3729-6852-0038 - - bonafide
+MASKGCT 3729-6852-0043 - - bonafide
+MASKGCT 3729-6852-0011 - - bonafide
+MASKGCT 3729-6852-0016 - - bonafide
+MASKGCT 3729-6852-0018 - - bonafide
+MASKGCT 3729-6852-0026 - - bonafide
+MASKGCT 3729-6852-0023 - - bonafide
+MASKGCT 1188-133604-0043 - - bonafide
+MASKGCT 1188-133604-0001 - - bonafide
+MASKGCT 1188-133604-0022 - - bonafide
+MASKGCT 1188-133604-0036 - - bonafide
+MASKGCT 1188-133604-0039 - - bonafide
+MASKGCT 1188-133604-0033 - - bonafide
+MASKGCT 1188-133604-0017 - - bonafide
+MASKGCT 3570-5694-0022 - - bonafide
+MASKGCT 3570-5694-0013 - - bonafide
+MASKGCT 3570-5696-0009 - - bonafide
+MASKGCT 3570-5694-0018 - - bonafide
+MASKGCT 3570-5696-0002 - - bonafide
+MASKGCT 3570-5695-0002 - - bonafide
+MASKGCT 3570-5694-0005 - - bonafide
+MASKGCT 3570-5695-0009 - - bonafide
+MASKGCT 3570-5696-0007 - - bonafide
+MASKGCT 3570-5695-0015 - - bonafide
+MASKGCT 3570-5696-0006 - - bonafide
+MASKGCT 3570-5696-0008 - - bonafide
+MASKGCT 3570-5694-0008 - - bonafide
+MASKGCT 3570-5695-0011 - - bonafide
+MASKGCT 8463-294828-0020 - - bonafide
+MASKGCT 8463-294828-0012 - - bonafide
+MASKGCT 8463-294828-0036 - - bonafide
+MASKGCT 8463-294828-0015 - - bonafide
+MASKGCT 8463-294828-0033 - - bonafide
+MASKGCT 8463-294828-0023 - - bonafide
+MASKGCT 8463-294828-0003 - - bonafide
+MASKGCT 8463-294828-0001 - - bonafide
+MASKGCT 8463-287645-0013 - - bonafide
+MASKGCT 8463-294825-0003 - - bonafide
+MASKGCT 8463-294828-0017 - - bonafide
+MASKGCT 8463-294825-0001 - - bonafide
+MASKGCT 8463-294828-0014 - - bonafide
+MASKGCT 8463-287645-0000 - - bonafide
+MASKGCT 8463-287645-0006 - - bonafide
+MASKGCT 8463-287645-0010 - - bonafide
+MASKGCT 908-31957-0014 - - bonafide
+MASKGCT 908-31957-0007 - - bonafide
+MASKGCT 908-157963-0013 - - bonafide
+MASKGCT 908-31957-0023 - - bonafide
+MASKGCT 908-157963-0016 - - bonafide
+MASKGCT 908-157963-0018 - - bonafide
+MASKGCT 908-31957-0006 - - bonafide
+MASKGCT 908-157963-0009 - - bonafide
+MASKGCT 908-157963-0022 - - bonafide
+MASKGCT 908-157963-0006 - - bonafide
+MASKGCT 908-31957-0005 - - bonafide
+MASKGCT 908-157963-0026 - - bonafide
+MASKGCT 908-31957-0019 - - bonafide
+MASKGCT 908-31957-0020 - - bonafide
+MASKGCT 908-157963-0005 - - bonafide
+MASKGCT 908-157963-0014 - - bonafide
+SINGLECODEC BAC009S0143W0256-libritts_2004-147981_000003_000000 - - spoof
+SINGLECODEC BAC009S0143W0256-libritts_5979-42002_000006_000008 - - spoof
+SINGLECODEC BAC009S0143W0256-libritts_6153-62535_000065_000004 - - spoof
+SINGLECODEC BAC009S0143W0256-p263_160_mic1 - - spoof
+SINGLECODEC SSB13650221-libritts_5139-61422_000003_000000 - - spoof
+SINGLECODEC SSB13650221-libritts_7046-85651_000040_000003 - - spoof
+SINGLECODEC bonafide1 - - bonafide
+SINGLECODEC bonafide2 - - bonafide
+SINGLECODEC libritts_1795-142410_000005_000000_bonafide - - bonafide
+SINGLECODEC libritts_2506-11278_000007_000007_bonafide - - bonafide
+SINGLECODEC libritts_492-131882_000011_000000_bonafide - - bonafide
+SINGLECODEC libritts_5139-61422_000009_000000_bonafide - - bonafide
+SINGLECODEC libritts_816-2301_000003_000001-libritts_1851-148312_000011_000000 - - spoof
+SINGLECODEC libritts_816-2301_000003_000001-libritts_2588-160947_000071_000001 - - spoof
+SINGLECODEC libritts_816-2301_000003_000001-libritts_7848-275149_000003_000000 - - spoof
+SINGLECODEC libritts_816-2301_000003_000001-p263_160_mic1 - - spoof
+SINGLECODEC libritts_895-136366_000007_000003_bonafide - - bonafide
+SINGLECODEC libritts_8975-270782_000021_000005_bonafide - - bonafide
+SINGLECODEC p300_314_mic1-hifitts_11614_other-11965petersimple_01_marryat_0039 - - spoof
+SINGLECODEC p300_314_mic1-libritts_4313-9937_000010_000004 - - spoof
+SINGLECODEC p300_314_mic1-libritts_7150-2338_000034_000000 - - spoof
+SINGLECODEC p300_314_mic1-libritts_8543-280376_000075_000001 - - spoof
