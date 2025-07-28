@@ -256,8 +256,8 @@ if __name__ == '__main__':
     parser.add_argument('--metadata_path', type=str, default='./metadata/training/', help='Change with path to user\'s LA database protocols directory address')
 
     # Hyperparameters
-    parser.add_argument('--batch_size', type=int, default=14)
-    parser.add_argument('--num_epochs', type=int, default=4)
+    parser.add_argument('--batch_size', type=int, default=8)
+    parser.add_argument('--num_epochs', type=int, default=20)
     parser.add_argument('--lr', type=float, default=0.000001)
     parser.add_argument('--weight_decay', type=float, default=0.0001)
     parser.add_argument('--loss', type=str, default='weighted_CCE')
