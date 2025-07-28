@@ -5,7 +5,7 @@ if [ "$#" -ne 8 ]; then
   echo "Usage: bash train.sh <base_dir> <save_dir> <batch_size> <num_epochs> <lr> <task> <sampling_strategy> <mask_ratio>"
   echo ""
   echo "Example:"
-  echo "  ./run_train.sh /path/to/data ./models_myname 12 40 1e-5 AUX AUX 0.4"
+  echo "  bash train.sh /path/to/data ./models_myname 12 40 1e-5 AUX AUX 0.4"
   echo ""
   echo "Arguments:"
   echo "  <base_dir>           Path to Codecfake+ CoRS dataset (called all_data_16k/)"
