@@ -2,7 +2,7 @@
 
 # Check if the number of arguments is correct
 if [ "$#" -ne 8 ]; then
-  echo "Usage: ./run_train.sh <base_dir> <save_dir> <batch_size> <num_epochs> <lr> <task> <sampling_strategy> <mask_ratio>"
+  echo "Usage: bash train.sh <base_dir> <save_dir> <batch_size> <num_epochs> <lr> <task> <sampling_strategy> <mask_ratio>"
   echo ""
   echo "Example:"
   echo "  ./run_train.sh /path/to/data ./models_myname 12 40 1e-5 AUX AUX 0.4"
