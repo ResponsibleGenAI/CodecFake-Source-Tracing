@@ -37,7 +37,7 @@ CodecFake+/
 
 #### For SAST Net
 - Create directory `Pretrain_weight` inside `SAST_Net/`
-- Download and place the following checkpoints:
+- Download and place the following checkpoints in `SAST_Net/Pretrain_weight`:
 
 | Model | Description | Download |
 |:-----:|:-----------:|:--------:|
