@@ -2,7 +2,7 @@
 The codebase is coming soon!
 
 # The CodecFake+ dataset
-[CodecFake+]{https://github.com/ResponsibleGenAI/CodecFake-Plus-Dataset}
+[CodecFake+](https://github.com/ResponsibleGenAI/CodecFake-Plus-Dataset)
 
 # Citation
 If you think this work helps your research or use the code, please consider citing our paper. Thank you!
