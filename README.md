@@ -132,8 +132,6 @@ bash inference.sh ${dataset_type} ${base_dir} ${checkpoint_path} ${model_type}
 - `checkpoint_path`: Path to model checkpoint
 - `model_type`: `S_BIN` / `S_VQ` / `S_AUX` / `S_DEC` / `D_VQ` / `D_AUX` / `D_DEC` / `M1` / `M2`
 
-**Output:** Results saved in `Result/results.txt` with EER and F1 scores ( according to `model_type`) .
-
 #### **SAST Net**
 
 ```bash
