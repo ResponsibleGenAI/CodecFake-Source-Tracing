@@ -177,7 +177,7 @@ conda activate CodecFakeSourceTracing
     - `save_dir`: Checkpoint save directory (default: `./models_SAST_Net`)
     - `batch_size`: Batch size (default: `12`)
     - `num_epochs`: Training epochs (default: `40`)
-    - `lr`: Learning rate (default: `1e-05`)
+    - `lr`: Learning rate (default: `5e-06`)
     - `task`: `Bin` / `VQ` / `AUX` / `DEC`
     - `sampling_strategy`: `VQ` / `AUX` / `DEC`
     - `mask_ratio`: MAE mask ratio (default: `0.4`)
